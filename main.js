@@ -408,20 +408,22 @@ function showAllAnswers() {
   if (existingWrapper) existingWrapper.remove();
 
   qObject.forEach((q, index) => {
-    const userAnswer = q.selectedAnswer ? q.selectedAnswer.trim() : "";
+    const userAnswer = q.selectedAnswer
+      ? q.selectedAnswer.trim()
+      : "Not Answered";
     const correct = q.right_answer.trim();
     const isCorrect =
       userAnswer && userAnswer.toLowerCase() === correct.toLowerCase();
 
-    let color = userAnswer === "" ? "gray" : isCorrect ? "green" : "red";
+    let color = userAnswer === "Not Answered" ? "gray" : isCorrect ? "green" : "red";
 
     const div = document.createElement("div");
     div.className = "review-item";
     div.innerHTML = `
-<div>
+<div class="show-answers">
     <h3>${index + 1}. ${q.title} </h3>
-        <p>Your Answer: <span style="color:${color}; font-weight:bold">${userAnswer}</span></p>
-      <p>Correct Answer: <span style="color:green; font-weight:bold">${correct}</span></p>
+        <p>Your Answer: <span style="color:${color}">${userAnswer}</span></p>
+      <p>Correct Answer: <span style="color:green">${correct}</span></p>
 </div>
       <hr>
     `;
