@@ -75,3 +75,5 @@ Each question includes
 • title
 • answers array
 • right_answer
+
+🔗 **Live Demo:** [Click here to view the site](https://dinaelbry.github.io/Quiz-app)
