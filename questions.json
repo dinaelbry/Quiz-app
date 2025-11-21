@@ -1,0 +1,3870 @@
+{
+  "en": {
+    "history": [
+      {
+        "title": "Who was the first President of the United States?",
+        "answer_1": "Abraham Lincoln",
+        "answer_2": "Thomas Jefferson",
+        "answer_3": "George Washington",
+        "answer_4": "John Adams",
+        "right_answer": "George Washington"
+      },
+      {
+        "title": "In which year did World War II end?",
+        "answer_1": "1944",
+        "answer_2": "1945",
+        "answer_3": "1946",
+        "answer_4": "1950",
+        "right_answer": "1945"
+      },
+      {
+        "title": "Who discovered America in 1492?",
+        "answer_1": "Vasco da Gama",
+        "answer_2": "Ferdinand Magellan",
+        "answer_3": "Christopher Columbus",
+        "answer_4": "James Cook",
+        "right_answer": "Christopher Columbus"
+      },
+      {
+        "title": "Which civilization built the pyramids?",
+        "answer_1": "Romans",
+        "answer_2": "Greeks",
+        "answer_3": "Egyptians",
+        "answer_4": "Mayans",
+        "right_answer": "Egyptians"
+      },
+      {
+        "title": "Who was known as the Iron Lady?",
+        "answer_1": "Indira Gandhi",
+        "answer_2": "Angela Merkel",
+        "answer_3": "Margaret Thatcher",
+        "answer_4": "Golda Meir",
+        "right_answer": "Margaret Thatcher"
+      },
+      {
+        "title": "What wall fell in 1989?",
+        "answer_1": "Great Wall of China",
+        "answer_2": "Berlin Wall",
+        "answer_3": "Hadrian's Wall",
+        "answer_4": "Wailing Wall",
+        "right_answer": "Berlin Wall"
+      },
+      {
+        "title": "Who was the first man on the moon?",
+        "answer_1": "Buzz Aldrin",
+        "answer_2": "Yuri Gagarin",
+        "answer_3": "Neil Armstrong",
+        "answer_4": "John Glenn",
+        "right_answer": "Neil Armstrong"
+      },
+      {
+        "title": "Which empire did Julius Caesar belong to?",
+        "answer_1": "Greek",
+        "answer_2": "Persian",
+        "answer_3": "Roman",
+        "answer_4": "Ottoman",
+        "right_answer": "Roman"
+      },
+      {
+        "title": "Where did the Renaissance begin?",
+        "answer_1": "France",
+        "answer_2": "Spain",
+        "answer_3": "Italy",
+        "answer_4": "Germany",
+        "right_answer": "Italy"
+      },
+      {
+        "title": "Who painted the Mona Lisa?",
+        "answer_1": "Michelangelo",
+        "answer_2": "Raphael",
+        "answer_3": "Leonardo da Vinci",
+        "answer_4": "Picasso",
+        "right_answer": "Leonardo da Vinci"
+      },
+      {
+        "title": "Who was the longest-reigning British monarch?",
+        "answer_1": "Queen Victoria",
+        "answer_2": "King George III",
+        "answer_3": "Queen Elizabeth II",
+        "answer_4": "King Henry VIII",
+        "right_answer": "Queen Elizabeth II"
+      },
+      {
+        "title": "In which year did the French Revolution begin?",
+        "answer_1": "1776",
+        "answer_2": "1789",
+        "answer_3": "1799",
+        "answer_4": "1804",
+        "right_answer": "1789"
+      },
+      {
+        "title": "Who was the first Emperor of China?",
+        "answer_1": "Sun Yat-sen",
+        "answer_2": "Kublai Khan",
+        "answer_3": "Qin Shi Huang",
+        "answer_4": "Mao Zedong",
+        "right_answer": "Qin Shi Huang"
+      },
+      {
+        "title": "Which treaty ended World War I?",
+        "answer_1": "Treaty of Paris",
+        "answer_2": "Treaty of Versailles",
+        "answer_3": "Treaty of Tordesillas",
+        "answer_4": "Treaty of Utrecht",
+        "right_answer": "Treaty of Versailles"
+      },
+      {
+        "title": "Who led India to independence?",
+        "answer_1": "Jawaharlal Nehru",
+        "answer_2": "Subhas Bose",
+        "answer_3": "Mahatma Gandhi",
+        "answer_4": "Bhagat Singh",
+        "right_answer": "Mahatma Gandhi"
+      },
+      {
+        "title": "Who was the first woman to win a Nobel Prize?",
+        "answer_1": "Rosalind Franklin",
+        "answer_2": "Marie Curie",
+        "answer_3": "Ada Lovelace",
+        "answer_4": "Jane Goodall",
+        "right_answer": "Marie Curie"
+      },
+      {
+        "title": "Which country was formerly known as Persia?",
+        "answer_1": "Iraq",
+        "answer_2": "Turkey",
+        "answer_3": "Iran",
+        "answer_4": "Afghanistan",
+        "right_answer": "Iran"
+      },
+      {
+        "title": "Who built the Taj Mahal?",
+        "answer_1": "Akbar",
+        "answer_2": "Shah Jahan",
+        "answer_3": "Aurangzeb",
+        "answer_4": "Babur",
+        "right_answer": "Shah Jahan"
+      },
+      {
+        "title": "In which year did the Titanic sink?",
+        "answer_1": "1908",
+        "answer_2": "1912",
+        "answer_3": "1915",
+        "answer_4": "1920",
+        "right_answer": "1912"
+      },
+      {
+        "title": "Who was the last Tsar of Russia?",
+        "answer_1": "Ivan the Terrible",
+        "answer_2": "Peter the Great",
+        "answer_3": "Nicholas II",
+        "answer_4": "Alexander III",
+        "right_answer": "Nicholas II"
+      },
+      {
+        "title": "Which city was the ancient capital of the Inca Empire?",
+        "answer_1": "Machu Picchu",
+        "answer_2": "Cuzco",
+        "answer_3": "Lima",
+        "answer_4": "Quito",
+        "right_answer": "Cuzco"
+      },
+      {
+        "title": "Who invented the printing press?",
+        "answer_1": "Leonardo da Vinci",
+        "answer_2": "Johannes Gutenberg",
+        "answer_3": "Galileo",
+        "answer_4": "Copernicus",
+        "right_answer": "Johannes Gutenberg"
+      },
+      {
+        "title": "Which war was fought between 1950-1953?",
+        "answer_1": "Vietnam War",
+        "answer_2": "Korean War",
+        "answer_3": "Gulf War",
+        "answer_4": "Falklands War",
+        "right_answer": "Korean War"
+      },
+      {
+        "title": "Who was known as the Sun King?",
+        "answer_1": "Henry VIII",
+        "answer_2": "Louis XIV",
+        "answer_3": "Philip II",
+        "answer_4": "Charles V",
+        "right_answer": "Louis XIV"
+      },
+      {
+        "title": "Which country was Napoleon exiled to finally?",
+        "answer_1": "Elba",
+        "answer_2": "Corsica",
+        "answer_3": "Saint Helena",
+        "answer_4": "Russia",
+        "right_answer": "Saint Helena"
+      },
+      {
+        "title": "Who was the first female Prime Minister of the UK?",
+        "answer_1": "Theresa May",
+        "answer_2": "Margaret Thatcher",
+        "answer_3": "Liz Truss",
+        "answer_4": "Angela Merkel",
+        "right_answer": "Margaret Thatcher"
+      },
+      {
+        "title": "Which empire was the largest in history?",
+        "answer_1": "Roman Empire",
+        "answer_2": "Mongol Empire",
+        "answer_3": "British Empire",
+        "answer_4": "Ottoman Empire",
+        "right_answer": "British Empire"
+      },
+      {
+        "title": "Who wrote the Communist Manifesto?",
+        "answer_1": "Lenin",
+        "answer_2": "Karl Marx",
+        "answer_3": "Stalin",
+        "answer_4": "Trotsky",
+        "right_answer": "Karl Marx"
+      },
+      {
+        "title": "Which queen had the nickname Bloody Mary?",
+        "answer_1": "Elizabeth I",
+        "answer_2": "Mary I",
+        "answer_3": "Victoria",
+        "answer_4": "Anne Boleyn",
+        "right_answer": "Mary I"
+      },
+      {
+        "title": "Who was the first man to reach the South Pole?",
+        "answer_1": "Scott",
+        "answer_2": "Amundsen",
+        "answer_3": "Shackleton",
+        "answer_4": "Cook",
+        "right_answer": "Amundsen"
+      },
+      {
+        "title": "Which country was Hitler born in?",
+        "answer_1": "Germany",
+        "answer_2": "Austria",
+        "answer_3": "Czechoslovakia",
+        "answer_4": "Poland",
+        "right_answer": "Austria"
+      },
+      {
+        "title": "Who discovered penicillin?",
+        "answer_1": "Fleming",
+        "answer_2": "Pasteur",
+        "answer_3": "Curie",
+        "answer_4": "Koch",
+        "right_answer": "Fleming"
+      },
+      {
+        "title": "Which civilization invented paper?",
+        "answer_1": "Egyptians",
+        "answer_2": "Chinese",
+        "answer_3": "Greeks",
+        "answer_4": "Romans",
+        "right_answer": "Chinese"
+      },
+      {
+        "title": "Who was the first President of South Africa after apartheid?",
+        "answer_1": "F.W. de Klerk",
+        "answer_2": "Nelson Mandela",
+        "answer_3": "Thabo Mbeki",
+        "answer_4": "Jacob Zuma",
+        "right_answer": "Nelson Mandela"
+      },
+      {
+        "title": "Which battle ended Napoleon's rule?",
+        "answer_1": "Trafalgar",
+        "answer_2": "Austerlitz",
+        "answer_3": "Waterloo",
+        "answer_4": "Leipzig",
+        "right_answer": "Waterloo"
+      },
+      {
+        "title": "Who was the first woman in space?",
+        "answer_1": "Sally Ride",
+        "answer_2": "Valentina Tereshkova",
+        "answer_3": "Mae Jemison",
+        "answer_4": "Judith Resnik",
+        "right_answer": "Valentina Tereshkova"
+      },
+      {
+        "title": "Which country was known as Rhodesia?",
+        "answer_1": "Zambia",
+        "answer_2": "Zimbabwe",
+        "answer_3": "Botswana",
+        "answer_4": "Namibia",
+        "right_answer": "Zimbabwe"
+      },
+      {
+        "title": "Who led the Russian Revolution of 1917?",
+        "answer_1": "Stalin",
+        "answer_2": "Trotsky",
+        "answer_3": "Lenin",
+        "answer_4": "Kerensky",
+        "right_answer": "Lenin"
+      },
+      {
+        "title": "Which city was destroyed by Vesuvius in 79 AD?",
+        "answer_1": "Rome",
+        "answer_2": "Naples",
+        "answer_3": "Pompeii",
+        "answer_4": "Herculaneum",
+        "right_answer": "Pompeii"
+      },
+      {
+        "title": "Who was the first Prime Minister of Israel?",
+        "answer_1": "Golda Meir",
+        "answer_2": "David Ben-Gurion",
+        "answer_3": "Menachem Begin",
+        "answer_4": "Yitzhak Rabin",
+        "right_answer": "David Ben-Gurion"
+      }
+    ],
+    "logic": [
+      {
+        "title": "What is the next number: 2, 4, 8, 16, ?",
+        "answer_1": "24",
+        "answer_2": "32",
+        "answer_3": "36",
+        "answer_4": "48",
+        "right_answer": "32"
+      },
+      {
+        "title": "If all cats are animals and some animals are dogs, then some cats are dogs.",
+        "answer_1": "True",
+        "answer_2": "False",
+        "answer_3": "Maybe",
+        "answer_4": "Cannot determine",
+        "right_answer": "False"
+      },
+      {
+        "title": "Which doesn't belong: Apple, Banana, Carrot, Grape?",
+        "answer_1": "Apple",
+        "answer_2": "Banana",
+        "answer_3": "Carrot",
+        "answer_4": "Grape",
+        "right_answer": "Carrot"
+      },
+      {
+        "title": "5 cats catch 5 mice in 5 minutes. How many cats to catch 100 mice in 100 minutes?",
+        "answer_1": "100",
+        "answer_2": "20",
+        "answer_3": "5",
+        "answer_4": "50",
+        "right_answer": "5"
+      },
+      {
+        "title": "What comes next: A, C, E, G, ?",
+        "answer_1": "H",
+        "answer_2": "I",
+        "answer_3": "J",
+        "answer_4": "K",
+        "right_answer": "I"
+      },
+      {
+        "title": "Odd one out: 3, 6, 9, 12, 15, 17",
+        "answer_1": "9",
+        "answer_2": "15",
+        "answer_3": "17",
+        "answer_4": "12",
+        "right_answer": "17"
+      },
+      {
+        "title": "If today is Tuesday, what day is after 100 days?",
+        "answer_1": "Tuesday",
+        "answer_2": "Wednesday",
+        "answer_3": "Thursday",
+        "answer_4": "Friday",
+        "right_answer": "Thursday"
+      },
+      {
+        "title": "Half of a quarter of 400 is?",
+        "answer_1": "50",
+        "answer_2": "100",
+        "answer_3": "200",
+        "answer_4": "25",
+        "right_answer": "50"
+      },
+      {
+        "title": "Which has the most sides?",
+        "answer_1": "Square",
+        "answer_2": "Pentagon",
+        "answer_3": "Hexagon",
+        "answer_4": "Octagon",
+        "right_answer": "Octagon"
+      },
+      {
+        "title": "1kg feathers vs 1kg steel – which is heavier?",
+        "answer_1": "Steel",
+        "answer_2": "Feathers",
+        "answer_3": "Equal",
+        "answer_4": "Cannot tell",
+        "right_answer": "Equal"
+      },
+      {
+        "title": "Next in series: 1, 1, 2, 3, 5, 8, ?",
+        "answer_1": "11",
+        "answer_2": "13",
+        "answer_3": "14",
+        "answer_4": "21",
+        "right_answer": "13"
+      },
+      {
+        "title": "If you overtake 2nd place, what position are you?",
+        "answer_1": "1st",
+        "answer_2": "2nd",
+        "answer_3": "3rd",
+        "answer_4": "Last",
+        "right_answer": "2nd"
+      },
+      {
+        "title": "How many months have 28 days?",
+        "answer_1": "1",
+        "answer_2": "2",
+        "answer_3": "All 12",
+        "answer_4": "0",
+        "right_answer": "All 12"
+      },
+      {
+        "title": "A bat and ball cost $1.10. Bat costs $1 more than ball. How much is ball?",
+        "answer_1": "$0.10",
+        "answer_2": "$0.05",
+        "answer_3": "$0.50",
+        "answer_4": "$1.00",
+        "right_answer": "$0.05"
+      },
+      {
+        "title": "Next letters: J, F, M, A, M, ?",
+        "answer_1": "J",
+        "answer_2": "A",
+        "answer_3": "S",
+        "answer_4": "O",
+        "right_answer": "J"
+      },
+      {
+        "title": "If all roses are flowers and some flowers are red, then:",
+        "answer_1": "All roses red",
+        "answer_2": "Some roses red",
+        "answer_3": "No roses red",
+        "answer_4": "Cannot determine",
+        "right_answer": "Cannot determine"
+      },
+      {
+        "title": "Odd number out: 2, 4, 6, 8, 9",
+        "answer_1": "4",
+        "answer_2": "6",
+        "answer_3": "8",
+        "answer_4": "9",
+        "right_answer": "9"
+      },
+      {
+        "title": "How many sides does a triangle have?",
+        "answer_1": "3",
+        "answer_2": "4",
+        "answer_3": "5",
+        "answer_4": "6",
+        "right_answer": "3"
+      },
+      {
+        "title": "If yesterday was Sunday, tomorrow is?",
+        "answer_1": "Monday",
+        "answer_2": "Tuesday",
+        "answer_3": "Wednesday",
+        "answer_4": "Friday",
+        "right_answer": "Tuesday"
+      },
+      {
+        "title": "Which is the odd one: Circle, Square, Triangle, Rectangle?",
+        "answer_1": "Circle",
+        "answer_2": "Square",
+        "answer_3": "Triangle",
+        "answer_4": "Rectangle",
+        "right_answer": "Circle"
+      },
+      {
+        "title": "What comes next: 5, 10, 15, 20, ?",
+        "answer_1": "21",
+        "answer_2": "25",
+        "answer_3": "30",
+        "answer_4": "35",
+        "right_answer": "25"
+      },
+      {
+        "title": "How many letters in the word 'ELEPHANT'?",
+        "answer_1": "7",
+        "answer_2": "8",
+        "answer_3": "9",
+        "answer_4": "10",
+        "right_answer": "8"
+      },
+      {
+        "title": "If a red house is red bricks, blue house blue bricks, greenhouse is?",
+        "answer_1": "Green bricks",
+        "answer_2": "Glass",
+        "answer_3": "Plants",
+        "answer_4": "Transparent",
+        "right_answer": "Glass"
+      },
+      {
+        "title": "What can travel around the world while staying in a corner?",
+        "answer_1": "Wind",
+        "answer_2": "Stamp",
+        "answer_3": "Airplane",
+        "answer_4": "Internet",
+        "right_answer": "Stamp"
+      },
+      {
+        "title": "I speak without a mouth and hear without ears. What am I?",
+        "answer_1": "Echo",
+        "answer_2": "Ghost",
+        "answer_3": "Radio",
+        "answer_4": "Phone",
+        "right_answer": "Echo"
+      },
+      {
+        "title": "What has keys but can't open locks?",
+        "answer_1": "Map",
+        "answer_2": "Piano",
+        "answer_3": "Computer",
+        "answer_4": "Treasure",
+        "right_answer": "Piano"
+      },
+      {
+        "title": "The more you take, the more you leave behind. What am I?",
+        "answer_1": "Time",
+        "answer_2": "Money",
+        "answer_3": "Footsteps",
+        "answer_4": "Love",
+        "right_answer": "Footsteps"
+      },
+      {
+        "title": "What has a head, a tail, but no body?",
+        "answer_1": "Snake",
+        "answer_2": "Coin",
+        "answer_3": "River",
+        "answer_4": "Match",
+        "right_answer": "Coin"
+      },
+      {
+        "title": "What gets wet while drying?",
+        "answer_1": "Rain",
+        "answer_2": "Towel",
+        "answer_3": "Sponge",
+        "answer_4": "Hair",
+        "right_answer": "Towel"
+      },
+      {
+        "title": "How many colors in a rainbow?",
+        "answer_1": "6",
+        "answer_2": "7",
+        "answer_3": "8",
+        "answer_4": "9",
+        "right_answer": "7"
+      },
+      {
+        "title": "If you have 3 apples and take away 2, how many do you have?",
+        "answer_1": "1",
+        "answer_2": "2",
+        "answer_3": "3",
+        "answer_4": "0",
+        "right_answer": "2"
+      },
+      {
+        "title": "What comes once in a minute, twice in a moment, never in a thousand years?",
+        "answer_1": "Time",
+        "answer_2": "M",
+        "answer_3": "Second",
+        "answer_4": "Day",
+        "right_answer": "M"
+      },
+      {
+        "title": "What has hands but cannot clap?",
+        "answer_1": "Gloves",
+        "answer_2": "Clock",
+        "answer_3": "Robot",
+        "answer_4": "Tree",
+        "right_answer": "Clock"
+      },
+      {
+        "title": "What can you catch but not throw?",
+        "answer_1": "Ball",
+        "answer_2": "Cold",
+        "answer_3": "Fish",
+        "answer_4": "Love",
+        "right_answer": "Cold"
+      },
+      {
+        "title": "What has one eye but can't see?",
+        "answer_1": "Cyclops",
+        "answer_2": "Needle",
+        "answer_3": "Potato",
+        "answer_4": "Camera",
+        "right_answer": "Needle"
+      },
+      {
+        "title": "What building has the most stories?",
+        "answer_1": "Skyscraper",
+        "answer_2": "Library",
+        "answer_3": "School",
+        "answer_4": "House",
+        "right_answer": "Library"
+      },
+      {
+        "title": "What has a neck but no head?",
+        "answer_1": "Giraffe",
+        "answer_2": "Bottle",
+        "answer_3": "Shirt",
+        "answer_4": "River",
+        "right_answer": "Bottle"
+      },
+      {
+        "title": "What is always in front of you but can’t be seen?",
+        "answer_1": "Future",
+        "answer_2": "Air",
+        "answer_3": "Nose",
+        "answer_4": "Shadow",
+        "right_answer": "Future"
+      },
+      {
+        "title": "What can run but never walks?",
+        "answer_1": "River",
+        "answer_2": "Car",
+        "answer_3": "Time",
+        "answer_4": "Nose",
+        "right_answer": "River"
+      },
+      {
+        "title": "What has teeth but can't bite?",
+        "answer_1": "Shark",
+        "answer_2": "Comb",
+        "answer_3": "Saw",
+        "answer_4": "Gear",
+        "right_answer": "Comb"
+      }
+    ],
+    "movies": [
+      {
+        "title": "Who directed Inception?",
+        "answer_1": "Steven Spielberg",
+        "answer_2": "James Cameron",
+        "answer_3": "Christopher Nolan",
+        "answer_4": "Martin Scorsese",
+        "right_answer": "Christopher Nolan"
+      },
+      {
+        "title": "Which movie won Best Picture in 2020?",
+        "answer_1": "1917",
+        "answer_2": "Joker",
+        "answer_3": "Parasite",
+        "answer_4": "Once Upon a Time in Hollywood",
+        "right_answer": "Parasite"
+      },
+      {
+        "title": "Who played Iron Man?",
+        "answer_1": "Chris Evans",
+        "answer_2": "Chris Hemsworth",
+        "answer_3": "Robert Downey Jr.",
+        "answer_4": "Mark Ruffalo",
+        "right_answer": "Robert Downey Jr."
+      },
+      {
+        "title": "In which year was the first Harry Potter film released?",
+        "answer_1": "1999",
+        "answer_2": "2001",
+        "answer_3": "2003",
+        "answer_4": "2005",
+        "right_answer": "2001"
+      },
+      {
+        "title": "Who directed Titanic?",
+        "answer_1": "Peter Jackson",
+        "answer_2": "James Cameron",
+        "answer_3": "Ridley Scott",
+        "answer_4": "George Lucas",
+        "right_answer": "James Cameron"
+      },
+      {
+        "title": "Which movie has 'May the Force be with you'?",
+        "answer_1": "Star Trek",
+        "answer_2": "The Matrix",
+        "answer_3": "Star Wars",
+        "answer_4": "Dune",
+        "right_answer": "Star Wars"
+      },
+      {
+        "title": "Who played Jack Dawson in Titanic?",
+        "answer_1": "Brad Pitt",
+        "answer_2": "Tom Cruise",
+        "answer_3": "Leonardo DiCaprio",
+        "answer_4": "Matt Damon",
+        "right_answer": "Leonardo DiCaprio"
+      },
+      {
+        "title": "Which series features Jack Sparrow?",
+        "answer_1": "Indiana Jones",
+        "answer_2": "The Hobbit",
+        "answer_3": "Pirates of the Caribbean",
+        "answer_4": "Jurassic Park",
+        "right_answer": "Pirates of the Caribbean"
+      },
+      {
+        "title": "What is the country in Black Panther?",
+        "answer_1": "Zamunda",
+        "answer_2": "Genovia",
+        "answer_3": "Wakanda",
+        "answer_4": "Naboo",
+        "right_answer": "Wakanda"
+      },
+      {
+        "title": "Who directed The Dark Knight?",
+        "answer_1": "Tim Burton",
+        "answer_2": "Zack Snyder",
+        "answer_3": "Christopher Nolan",
+        "answer_4": "David Fincher",
+        "right_answer": "Christopher Nolan"
+      },
+      {
+        "title": "Who played the Joker in 2008?",
+        "answer_1": "Joaquin Phoenix",
+        "answer_2": "Jack Nicholson",
+        "answer_3": "Heath Ledger",
+        "answer_4": "Jared Leto",
+        "right_answer": "Heath Ledger"
+      },
+      {
+        "title": "Which movie has a character named Forrest Gump?",
+        "answer_1": "Cast Away",
+        "answer_2": "The Green Mile",
+        "answer_3": "Forrest Gump",
+        "answer_4": "Philadelphia",
+        "right_answer": "Forrest Gump"
+      },
+      {
+        "title": "Who directed Pulp Fiction?",
+        "answer_1": "Martin Scorsese",
+        "answer_2": "Quentin Tarantino",
+        "answer_3": "David Fincher",
+        "answer_4": "Coen Brothers",
+        "right_answer": "Quentin Tarantino"
+      },
+      {
+        "title": "Which film has 'Here's Johnny!'?",
+        "answer_1": "Psycho",
+        "answer_2": "The Shining",
+        "answer_3": "A Clockwork Orange",
+        "answer_4": "Full Metal Jacket",
+        "right_answer": "The Shining"
+      },
+      {
+        "title": "Who played Vito Corleone in The Godfather?",
+        "answer_1": "Al Pacino",
+        "answer_2": "Robert De Niro",
+        "answer_3": "Marlon Brando",
+        "answer_4": "James Caan",
+        "right_answer": "Marlon Brando"
+      },
+      {
+        "title": "Which movie won Best Picture in 2023?",
+        "answer_1": "Oppenheimer",
+        "answer_2": "Top Gun: Maverick",
+        "answer_3": "Everything Everywhere All at Once",
+        "answer_4": "The Fabelmans",
+        "right_answer": "Everything Everywhere All at Once"
+      },
+      {
+        "title": "In The Matrix, Neo takes which pill?",
+        "answer_1": "Blue",
+        "answer_2": "Red",
+        "answer_3": "Green",
+        "answer_4": "White",
+        "right_answer": "Red"
+      },
+      {
+        "title": "Who directed Lord of the Rings?",
+        "answer_1": "Steven Spielberg",
+        "answer_2": "Peter Jackson",
+        "answer_3": "James Cameron",
+        "answer_4": "George Lucas",
+        "right_answer": "Peter Jackson"
+      },
+      {
+        "title": "Who played Wolverine?",
+        "answer_1": "Ryan Reynolds",
+        "answer_2": "Chris Evans",
+        "answer_3": "Hugh Jackman",
+        "answer_4": "Ian McKellen",
+        "right_answer": "Hugh Jackman"
+      },
+      {
+        "title": "Which is the highest-grossing film ever?",
+        "answer_1": "Avengers: Endgame",
+        "answer_2": "Titanic",
+        "answer_3": "Avatar",
+        "answer_4": "Star Wars: The Force Awakens",
+        "right_answer": "Avatar"
+      },
+      {
+        "title": "Who played Ellen Ripley?",
+        "answer_1": "Linda Hamilton",
+        "answer_2": "Sigourney Weaver",
+        "answer_3": "Jamie Lee Curtis",
+        "answer_4": "Meryl Streep",
+        "right_answer": "Sigourney Weaver"
+      },
+      {
+        "title": "Which movie has 'I'll be back'?",
+        "answer_1": "Predator",
+        "answer_2": "The Terminator",
+        "answer_3": "Commando",
+        "answer_4": "True Lies",
+        "right_answer": "The Terminator"
+      },
+      {
+        "title": "Who directed Parasite?",
+        "answer_1": "Park Chan-wook",
+        "answer_2": "Bong Joon-ho",
+        "answer_3": "Kim Ki-duk",
+        "answer_4": "Lee Chang-dong",
+        "right_answer": "Bong Joon-ho"
+      },
+      {
+        "title": "In Cast Away, what is Wilson's name?",
+        "answer_1": "Soccer ball",
+        "answer_2": "Volleyball",
+        "answer_3": "Basketball",
+        "answer_4": "Tennis ball",
+        "right_answer": "Volleyball"
+      },
+      {
+        "title": "Which actor is known as The Rock?",
+        "answer_1": "Vin Diesel",
+        "answer_2": "Jason Statham",
+        "answer_3": "Dwayne Johnson",
+        "answer_4": "Chris Hemsworth",
+        "right_answer": "Dwayne Johnson"
+      },
+      {
+        "title": "Which film has a shark as the villain?",
+        "answer_1": "Deep Blue Sea",
+        "answer_2": "The Meg",
+        "answer_3": "Jaws",
+        "answer_4": "47 Meters Down",
+        "right_answer": "Jaws"
+      },
+      {
+        "title": "Who played Joker in 2019?",
+        "answer_1": "Heath Ledger",
+        "answer_2": "Jack Nicholson",
+        "answer_3": "Joaquin Phoenix",
+        "answer_4": "Jared Leto",
+        "right_answer": "Joaquin Phoenix"
+      },
+      {
+        "title": "Which movie has 'Life is like a box of chocolates'?",
+        "answer_1": "The Shawshank Redemption",
+        "answer_2": "Pulp Fiction",
+        "answer_3": "Forrest Gump",
+        "answer_4": "Good Will Hunting",
+        "right_answer": "Forrest Gump"
+      },
+      {
+        "title": "Who directed Schindler's List?",
+        "answer_1": "Martin Scorsese",
+        "answer_2": "Steven Spielberg",
+        "answer_3": "Stanley Kubrick",
+        "answer_4": "Quentin Tarantino",
+        "right_answer": "Steven Spielberg"
+      },
+      {
+        "title": "Which animated film has a lion named Simba?",
+        "answer_1": "Madagascar",
+        "answer_2": "The Lion King",
+        "answer_3": "Zootopia",
+        "answer_4": "Kung Fu Panda",
+        "right_answer": "The Lion King"
+      },
+      {
+        "title": "Who played Neo in The Matrix?",
+        "answer_1": "Will Smith",
+        "answer_2": "Keanu Reeves",
+        "answer_3": "Tom Cruise",
+        "answer_4": "Brad Pitt",
+        "right_answer": "Keanu Reeves"
+      },
+      {
+        "title": "Which movie has dinosaurs in a park?",
+        "answer_1": "King Kong",
+        "answer_2": "Godzilla",
+        "answer_3": "Jurassic Park",
+        "answer_4": "The Lost World",
+        "right_answer": "Jurassic Park"
+      },
+      {
+        "title": "Who directed Avatar?",
+        "answer_1": "Christopher Nolan",
+        "answer_2": "James Cameron",
+        "answer_3": "Peter Jackson",
+        "answer_4": "Ridley Scott",
+        "right_answer": "James Cameron"
+      },
+      {
+        "title": "Which film has 'You can't handle the truth!'?",
+        "answer_1": "The Firm",
+        "answer_2": "A Few Good Men",
+        "answer_3": "Jerry Maguire",
+        "answer_4": "Rain Man",
+        "right_answer": "A Few Good Men"
+      },
+      {
+        "title": "Who played Thor?",
+        "answer_1": "Tom Hiddleston",
+        "answer_2": "Chris Hemsworth",
+        "answer_3": "Chris Evans",
+        "answer_4": "Mark Ruffalo",
+        "right_answer": "Chris Hemsworth"
+      },
+      {
+        "title": "Which movie has a character named Elsa?",
+        "answer_1": "Tangled",
+        "answer_2": "Moana",
+        "answer_3": "Frozen",
+        "answer_4": "Brave",
+        "right_answer": "Frozen"
+      },
+      {
+        "title": "Who directed Interstellar?",
+        "answer_1": "Denis Villeneuve",
+        "answer_2": "Christopher Nolan",
+        "answer_3": "Alfonso Cuarón",
+        "answer_4": "Ridley Scott",
+        "right_answer": "Christopher Nolan"
+      },
+      {
+        "title": "Which film has 'Rosebud' as the last word?",
+        "answer_1": "The Godfather",
+        "answer_2": "Casablanca",
+        "answer_3": "Citizen Kane",
+        "answer_4": "Gone with the Wind",
+        "right_answer": "Citizen Kane"
+      },
+      {
+        "title": "Who played Hannibal Lecter in Silence of the Lambs?",
+        "answer_1": "Anthony Hopkins",
+        "answer_2": "Robert De Niro",
+        "answer_3": "Al Pacino",
+        "answer_4": "Jack Nicholson",
+        "right_answer": "Anthony Hopkins"
+      },
+      {
+        "title": "Which movie has a DeLorean time machine?",
+        "answer_1": "The Terminator",
+        "answer_2": "Back to the Future",
+        "answer_3": "Bill & Ted",
+        "answer_4": "12 Monkeys",
+        "right_answer": "Back to the Future"
+      }
+    ],
+    "science": [
+      {
+        "title": "What planet is known as the Red Planet?",
+        "answer_1": "Venus",
+        "answer_2": "Jupiter",
+        "answer_3": "Mars",
+        "answer_4": "Mercury",
+        "right_answer": "Mars"
+      },
+      {
+        "title": "What gas do plants absorb?",
+        "answer_1": "Oxygen",
+        "answer_2": "Nitrogen",
+        "answer_3": "Carbon Dioxide",
+        "answer_4": "Hydrogen",
+        "right_answer": "Carbon Dioxide"
+      },
+      {
+        "title": "Chemical symbol for water?",
+        "answer_1": "O2",
+        "answer_2": "CO2",
+        "answer_3": "H2O",
+        "answer_4": "HO",
+        "right_answer": "H2O"
+      },
+      {
+        "title": "Where is DNA found in the cell?",
+        "answer_1": "Cytoplasm",
+        "answer_2": "Mitochondria",
+        "answer_3": "Nucleus",
+        "answer_4": "Ribosome",
+        "right_answer": "Nucleus"
+      },
+      {
+        "title": "Hardest natural substance?",
+        "answer_1": "Gold",
+        "answer_2": "Iron",
+        "answer_3": "Diamond",
+        "answer_4": "Platinum",
+        "right_answer": "Diamond"
+      },
+      {
+        "title": "What force keeps us on Earth?",
+        "answer_1": "Magnetism",
+        "answer_2": "Friction",
+        "answer_3": "Gravity",
+        "answer_4": "Inertia",
+        "right_answer": "Gravity"
+      },
+      {
+        "title": "Which planet has visible rings?",
+        "answer_1": "Jupiter",
+        "answer_2": "Mars",
+        "answer_3": "Saturn",
+        "answer_4": "Uranus",
+        "right_answer": "Saturn"
+      },
+      {
+        "title": "Organ that pumps blood?",
+        "answer_1": "Lungs",
+        "answer_2": "Liver",
+        "answer_3": "Heart",
+        "answer_4": "Brain",
+        "right_answer": "Heart"
+      },
+      {
+        "title": "Gas humans breathe in?",
+        "answer_1": "Carbon Dioxide",
+        "answer_2": "Nitrogen",
+        "answer_3": "Oxygen",
+        "answer_4": "Argon",
+        "right_answer": "Oxygen"
+      },
+      {
+        "title": "How many planets in the solar system?",
+        "answer_1": "7",
+        "answer_2": "8",
+        "answer_3": "9",
+        "answer_4": "10",
+        "right_answer": "8"
+      },
+      {
+        "title": "Speed of light (approx)?",
+        "answer_1": "300,000 km/s",
+        "answer_2": "150,000 km/s",
+        "answer_3": "500,000 km/s",
+        "answer_4": "1,000,000 km/s",
+        "right_answer": "300,000 km/s"
+      },
+      {
+        "title": "Most abundant gas in atmosphere?",
+        "answer_1": "Oxygen",
+        "answer_2": "Carbon Dioxide",
+        "answer_3": "Nitrogen",
+        "answer_4": "Argon",
+        "right_answer": "Nitrogen"
+      },
+      {
+        "title": "Closest planet to the Sun?",
+        "answer_1": "Venus",
+        "answer_2": "Earth",
+        "answer_3": "Mercury",
+        "answer_4": "Mars",
+        "right_answer": "Mercury"
+      },
+      {
+        "title": "Powerhouse of the cell?",
+        "answer_1": "Nucleus",
+        "answer_2": "Ribosome",
+        "answer_3": "Mitochondria",
+        "answer_4": "Golgi",
+        "right_answer": "Mitochondria"
+      },
+      {
+        "title": "Element with atomic number 1?",
+        "answer_1": "Helium",
+        "answer_2": "Lithium",
+        "answer_3": "Hydrogen",
+        "answer_4": "Carbon",
+        "right_answer": "Hydrogen"
+      },
+      {
+        "title": "White blood cells fight?",
+        "answer_1": "Viruses",
+        "answer_2": "Infection",
+        "answer_3": "Cancer",
+        "answer_4": "All",
+        "right_answer": "Infection"
+      },
+      {
+        "title": "Who proposed relativity?",
+        "answer_1": "Newton",
+        "answer_2": "Galileo",
+        "answer_3": "Einstein",
+        "answer_4": "Hawking",
+        "right_answer": "Einstein"
+      },
+      {
+        "title": "Largest planet?",
+        "answer_1": "Saturn",
+        "answer_2": "Neptune",
+        "answer_3": "Jupiter",
+        "answer_4": "Earth",
+        "right_answer": "Jupiter"
+      },
+      {
+        "title": "Chemical formula for salt?",
+        "answer_1": "KCl",
+        "answer_2": "NaCl",
+        "answer_3": "CaCO3",
+        "answer_4": "H2SO4",
+        "right_answer": "NaCl"
+      },
+      {
+        "title": "Adult human bones?",
+        "answer_1": "196",
+        "answer_2": "206",
+        "answer_3": "216",
+        "answer_4": "226",
+        "right_answer": "206"
+      },
+      {
+        "title": "Smallest unit of life?",
+        "answer_1": "Atom",
+        "answer_2": "Molecule",
+        "answer_3": "Cell",
+        "answer_4": "Organ",
+        "right_answer": "Cell"
+      },
+      {
+        "title": "Morning Star planet?",
+        "answer_1": "Mars",
+        "answer_2": "Venus",
+        "answer_3": "Jupiter",
+        "answer_4": "Sirius",
+        "right_answer": "Venus"
+      },
+      {
+        "title": "Main gas exhaled?",
+        "answer_1": "Oxygen",
+        "answer_2": "Nitrogen",
+        "answer_3": "Carbon Dioxide",
+        "answer_4": "Water vapor",
+        "right_answer": "Carbon Dioxide"
+      },
+      {
+        "title": "Universal blood donor?",
+        "answer_1": "AB+",
+        "answer_2": "A-",
+        "answer_3": "O-",
+        "answer_4": "B+",
+        "right_answer": "O-"
+      },
+      {
+        "title": "Rainbow is caused by?",
+        "answer_1": "Reflection",
+        "answer_2": "Diffraction",
+        "answer_3": "Refraction",
+        "answer_4": "Absorption",
+        "right_answer": "Refraction"
+      },
+      {
+        "title": "Center of atom?",
+        "answer_1": "Electron",
+        "answer_2": "Proton",
+        "answer_3": "Nucleus",
+        "answer_4": "Neutron",
+        "right_answer": "Nucleus"
+      },
+      {
+        "title": "Ship of the Desert?",
+        "answer_1": "Horse",
+        "answer_2": "Llama",
+        "answer_3": "Camel",
+        "answer_4": "Elephant",
+        "right_answer": "Camel"
+      },
+      {
+        "title": "Boiling point of water?",
+        "answer_1": "90°C",
+        "answer_2": "100°C",
+        "answer_3": "110°C",
+        "answer_4": "120°C",
+        "right_answer": "100°C"
+      },
+      {
+        "title": "Largest organ in human body?",
+        "answer_1": "Liver",
+        "answer_2": "Brain",
+        "answer_3": "Skin",
+        "answer_4": "Lung",
+        "right_answer": "Skin"
+      },
+      {
+        "title": "Chemical symbol for gold?",
+        "answer_1": "Ag",
+        "answer_2": "Fe",
+        "answer_3": "Au",
+        "answer_4": "Pb",
+        "right_answer": "Au"
+      },
+      {
+        "title": "Planet with most moons?",
+        "answer_1": "Jupiter",
+        "answer_2": "Saturn",
+        "answer_3": "Uranus",
+        "answer_4": "Neptune",
+        "right_answer": "Saturn"
+      },
+      {
+        "title": "Father of modern physics?",
+        "answer_1": "Einstein",
+        "answer_2": "Newton",
+        "answer_3": "Galileo",
+        "answer_4": "Tesla",
+        "right_answer": "Newton"
+      },
+      {
+        "title": "What does pH measure?",
+        "answer_1": "Pressure",
+        "answer_2": "Acidity",
+        "answer_3": "Temperature",
+        "answer_4": "Density",
+        "right_answer": "Acidity"
+      },
+      {
+        "title": "Which vitamin from sunlight?",
+        "answer_1": "A",
+        "answer_2": "B",
+        "answer_3": "C",
+        "answer_4": "D",
+        "right_answer": "D"
+      },
+      {
+        "title": "What is the speed of sound?",
+        "answer_1": "343 m/s",
+        "answer_2": "123 m/s",
+        "answer_3": "500 m/s",
+        "answer_4": "1000 m/s",
+        "right_answer": "343 m/s"
+      },
+      {
+        "title": "Which element is diamond made of?",
+        "answer_1": "Carbon",
+        "answer_2": "Silicon",
+        "answer_3": "Graphite",
+        "answer_4": "Quartz",
+        "right_answer": "Carbon"
+      },
+      {
+        "title": "Which blood type is universal recipient?",
+        "answer_1": "O+",
+        "answer_2": "AB+",
+        "answer_3": "A-",
+        "answer_4": "B-",
+        "right_answer": "AB+"
+      },
+      {
+        "title": "What is the largest mammal?",
+        "answer_1": "Elephant",
+        "answer_2": "Giraffe",
+        "answer_3": "Blue Whale",
+        "answer_4": "Shark",
+        "right_answer": "Blue Whale"
+      },
+      {
+        "title": "Which scientist discovered gravity?",
+        "answer_1": "Einstein",
+        "answer_2": "Galileo",
+        "answer_3": "Newton",
+        "answer_4": "Archimedes",
+        "right_answer": "Newton"
+      },
+      {
+        "title": "What is H2SO4?",
+        "answer_1": "Water",
+        "answer_2": "Salt",
+        "answer_3": "Sulfuric Acid",
+        "answer_4": "Vinegar",
+        "right_answer": "Sulfuric Acid"
+      }
+    ],
+    "geography": [
+      {
+        "title": "Capital of Australia?",
+        "answer_1": "Sydney",
+        "answer_2": "Melbourne",
+        "answer_3": "Canberra",
+        "answer_4": "Perth",
+        "right_answer": "Canberra"
+      },
+      {
+        "title": "Largest desert?",
+        "answer_1": "Sahara",
+        "answer_2": "Gobi",
+        "answer_3": "Antarctic",
+        "answer_4": "Kalahari",
+        "right_answer": "Antarctic"
+      },
+      {
+        "title": "Most populous country?",
+        "answer_1": "China",
+        "answer_2": "USA",
+        "answer_3": "India",
+        "answer_4": "Indonesia",
+        "right_answer": "India"
+      },
+      {
+        "title": "Longest river?",
+        "answer_1": "Amazon",
+        "answer_2": "Nile",
+        "answer_3": "Yangtze",
+        "answer_4": "Mississippi",
+        "right_answer": "Nile"
+      },
+      {
+        "title": "Land of the Rising Sun?",
+        "answer_1": "China",
+        "answer_2": "Korea",
+        "answer_3": "Japan",
+        "answer_4": "Thailand",
+        "right_answer": "Japan"
+      },
+      {
+        "title": "Which continent is Egypt in?",
+        "answer_1": "Asia",
+        "answer_2": "Europe",
+        "answer_3": "Africa",
+        "answer_4": "Middle East",
+        "right_answer": "Africa"
+      },
+      {
+        "title": "Smallest country?",
+        "answer_1": "Monaco",
+        "answer_2": "San Marino",
+        "answer_3": "Vatican City",
+        "answer_4": "Liechtenstein",
+        "right_answer": "Vatican City"
+      },
+      {
+        "title": "Sea between Africa and Europe?",
+        "answer_1": "Red Sea",
+        "answer_2": "Black Sea",
+        "answer_3": "Mediterranean",
+        "answer_4": "Caspian",
+        "right_answer": "Mediterranean"
+      },
+      {
+        "title": "Highest mountain?",
+        "answer_1": "K2",
+        "answer_2": "Kangchenjunga",
+        "answer_3": "Everest",
+        "answer_4": "Makalu",
+        "right_answer": "Everest"
+      },
+      {
+        "title": "Most pyramids?",
+        "answer_1": "Egypt",
+        "answer_2": "Mexico",
+        "answer_3": "Sudan",
+        "answer_4": "Peru",
+        "right_answer": "Sudan"
+      },
+      {
+        "title": "Capital of Brazil?",
+        "answer_1": "Rio",
+        "answer_2": "São Paulo",
+        "answer_3": "Brasília",
+        "answer_4": "Salvador",
+        "right_answer": "Brasília"
+      },
+      {
+        "title": "Largest ocean?",
+        "answer_1": "Atlantic",
+        "answer_2": "Indian",
+        "answer_3": "Pacific",
+        "answer_4": "Arctic",
+        "right_answer": "Pacific"
+      },
+      {
+        "title": "Which country has most neighbors?",
+        "answer_1": "Russia",
+        "answer_2": "Brazil",
+        "answer_3": "China",
+        "answer_4": "Germany",
+        "right_answer": "China"
+      },
+      {
+        "title": "Coldest continent?",
+        "answer_1": "Asia",
+        "answer_2": "Europe",
+        "answer_3": "Antarctica",
+        "answer_4": "North America",
+        "right_answer": "Antarctica"
+      },
+      {
+        "title": "Capital of Japan?",
+        "answer_1": "Osaka",
+        "answer_2": "Kyoto",
+        "answer_3": "Tokyo",
+        "answer_4": "Hiroshima",
+        "right_answer": "Tokyo"
+      },
+      {
+        "title": "Which country is both in Europe and Asia?",
+        "answer_1": "Turkey",
+        "answer_2": "Greece",
+        "answer_3": "Ukraine",
+        "answer_4": "Georgia",
+        "right_answer": "Turkey"
+      },
+      {
+        "title": "Largest island?",
+        "answer_1": "Australia",
+        "answer_2": "Greenland",
+        "answer_3": "New Guinea",
+        "answer_4": "Borneo",
+        "right_answer": "Greenland"
+      },
+      {
+        "title": "Which river flows through Egypt?",
+        "answer_1": "Amazon",
+        "answer_2": "Congo",
+        "answer_3": "Nile",
+        "answer_4": "Tigris",
+        "right_answer": "Nile"
+      },
+      {
+        "title": "Capital of Canada?",
+        "answer_1": "Toronto",
+        "answer_2": "Vancouver",
+        "answer_3": "Ottawa",
+        "answer_4": "Montreal",
+        "right_answer": "Ottawa"
+      },
+      {
+        "title": "Which country has the longest coastline?",
+        "answer_1": "Indonesia",
+        "answer_2": "Russia",
+        "answer_3": "Canada",
+        "answer_4": "Australia",
+        "right_answer": "Canada"
+      },
+      {
+        "title": "Largest lake?",
+        "answer_1": "Baikal",
+        "answer_2": "Superior",
+        "answer_3": "Caspian Sea",
+        "answer_4": "Victoria",
+        "right_answer": "Caspian Sea"
+      },
+      {
+        "title": "Which country is known as the Emerald Isle?",
+        "answer_1": "Scotland",
+        "answer_2": "Wales",
+        "answer_3": "Ireland",
+        "answer_4": "Iceland",
+        "right_answer": "Ireland"
+      },
+      {
+        "title": "Capital of South Africa (administrative)?",
+        "answer_1": "Cape Town",
+        "answer_2": "Johannesburg",
+        "answer_3": "Pretoria",
+        "answer_4": "Durban",
+        "right_answer": "Pretoria"
+      },
+      {
+        "title": "Which continent has no permanent residents?",
+        "answer_1": "Australia",
+        "answer_2": "Antarctica",
+        "answer_3": "Arctic",
+        "answer_4": "Greenland",
+        "right_answer": "Antarctica"
+      },
+      {
+        "title": "Which country has the most time zones?",
+        "answer_1": "USA",
+        "answer_2": "Russia",
+        "answer_3": "France",
+        "answer_4": "China",
+        "right_answer": "France"
+      },
+      {
+        "title": "Capital of Egypt?",
+        "answer_1": "Alexandria",
+        "answer_2": "Giza",
+        "answer_3": "Cairo",
+        "answer_4": "Luxor",
+        "right_answer": "Cairo"
+      },
+      {
+        "title": "Which sea has no coastline?",
+        "answer_1": "Dead Sea",
+        "answer_2": "Sargasso Sea",
+        "answer_3": "Black Sea",
+        "answer_4": "Red Sea",
+        "right_answer": "Sargasso Sea"
+      },
+      {
+        "title": "Largest country by area?",
+        "answer_1": "China",
+        "answer_2": "Canada",
+        "answer_3": "Russia",
+        "answer_4": "USA",
+        "right_answer": "Russia"
+      },
+      {
+        "title": "Which country is home to the kangaroo?",
+        "answer_1": "New Zealand",
+        "answer_2": "South Africa",
+        "answer_3": "Australia",
+        "answer_4": "Tasmania",
+        "right_answer": "Australia"
+      },
+      {
+        "title": "Capital of Russia?",
+        "answer_1": "St. Petersburg",
+        "answer_2": "Moscow",
+        "answer_3": "Kiev",
+        "answer_4": "Novosibirsk",
+        "right_answer": "Moscow"
+      },
+      {
+        "title": "Which is the driest continent?",
+        "answer_1": "Asia",
+        "answer_2": "Africa",
+        "answer_3": "Australia",
+        "answer_4": "Antarctica",
+        "right_answer": "Antarctica"
+      },
+      {
+        "title": "Which country has a maple leaf on its flag?",
+        "answer_1": "USA",
+        "answer_2": "UK",
+        "answer_3": "Canada",
+        "answer_4": "Switzerland",
+        "right_answer": "Canada"
+      },
+      {
+        "title": "Capital of France?",
+        "answer_1": "Lyon",
+        "answer_2": "Marseille",
+        "answer_3": "Paris",
+        "answer_4": "Nice",
+        "right_answer": "Paris"
+      },
+      {
+        "title": "Which river flows through London?",
+        "answer_1": "Seine",
+        "answer_2": "Danube",
+        "answer_3": "Thames",
+        "answer_4": "Rhine",
+        "right_answer": "Thames"
+      },
+      {
+        "title": "Largest canyon?",
+        "answer_1": "Grand Canyon",
+        "answer_2": "Fish River Canyon",
+        "answer_3": "Colca Canyon",
+        "answer_4": "Yarlung Tsangpo",
+        "right_answer": "Yarlung Tsangpo"
+      },
+      {
+        "title": "Which country is shaped like a boot?",
+        "answer_1": "Greece",
+        "answer_2": "Spain",
+        "answer_3": "Italy",
+        "answer_4": "Portugal",
+        "right_answer": "Italy"
+      },
+      {
+        "title": "Capital of Turkey?",
+        "answer_1": "Istanbul",
+        "answer_2": "Izmir",
+        "answer_3": "Ankara",
+        "answer_4": "Antalya",
+        "right_answer": "Ankara"
+      },
+      {
+        "title": "Which is the smallest continent?",
+        "answer_1": "Europe",
+        "answer_2": "Australia",
+        "answer_3": "South America",
+        "answer_4": "Antarctica",
+        "right_answer": "Australia"
+      },
+      {
+        "title": "Which country has the most volcanoes?",
+        "answer_1": "Japan",
+        "answer_2": "Italy",
+        "answer_3": "Indonesia",
+        "answer_4": "Iceland",
+        "right_answer": "Indonesia"
+      },
+      {
+        "title": "Capital of Saudi Arabia?",
+        "answer_1": "Jeddah",
+        "answer_2": "Mecca",
+        "answer_3": "Riyadh",
+        "answer_4": "Medina",
+        "right_answer": "Riyadh"
+      }
+    ],
+    "sports": [
+      {
+        "title": "How many players on a football team?",
+        "answer_1": "9",
+        "answer_2": "10",
+        "answer_3": "11",
+        "answer_4": "12",
+        "right_answer": "11"
+      },
+      {
+        "title": "Hole in one is in which sport?",
+        "answer_1": "Tennis",
+        "answer_2": "Baseball",
+        "answer_3": "Golf",
+        "answer_4": "Bowling",
+        "right_answer": "Golf"
+      },
+      {
+        "title": "Most Ballon d'Or wins?",
+        "answer_1": "Cristiano Ronaldo",
+        "answer_2": "Pelé",
+        "answer_3": "Lionel Messi",
+        "answer_4": "Maradona",
+        "right_answer": "Lionel Messi"
+      },
+      {
+        "title": "Marathon distance?",
+        "answer_1": "40 km",
+        "answer_2": "42.195 km",
+        "answer_3": "45 km",
+        "answer_4": "50 km",
+        "right_answer": "42.195 km"
+      },
+      {
+        "title": "Who won 2022 World Cup?",
+        "answer_1": "France",
+        "answer_2": "Brazil",
+        "answer_3": "Argentina",
+        "answer_4": "Germany",
+        "right_answer": "Argentina"
+      },
+      {
+        "title": "Three-pointer in basketball?",
+        "answer_1": "2",
+        "answer_2": "3",
+        "answer_3": "4",
+        "answer_4": "1",
+        "right_answer": "3"
+      },
+      {
+        "title": "Wimbledon is played on?",
+        "answer_1": "Clay",
+        "answer_2": "Hard",
+        "answer_3": "Grass",
+        "answer_4": "Carpet",
+        "right_answer": "Grass"
+      },
+      {
+        "title": "How many Olympic rings?",
+        "answer_1": "4",
+        "answer_2": "5",
+        "answer_3": "6",
+        "answer_4": "7",
+        "right_answer": "5"
+      },
+      {
+        "title": "King of Football?",
+        "answer_1": "Messi",
+        "answer_2": "Ronaldo",
+        "answer_3": "Pelé",
+        "answer_4": "Maradona",
+        "right_answer": "Pelé"
+      },
+      {
+        "title": "Ace is used in?",
+        "answer_1": "Volleyball",
+        "answer_2": "Badminton",
+        "answer_3": "Tennis",
+        "answer_4": "Squash",
+        "right_answer": "Tennis"
+      },
+      {
+        "title": "How many World Cups has Brazil won?",
+        "answer_1": "4",
+        "answer_2": "5",
+        "answer_3": "6",
+        "answer_4": "3",
+        "right_answer": "5"
+      },
+      {
+        "title": "NBA championship trophy name?",
+        "answer_1": "Larry O'Brien",
+        "answer_2": "Stanley Cup",
+        "answer_3": "Vince Lombardi",
+        "answer_4": "Commissioner’s",
+        "right_answer": "Larry O'Brien"
+      },
+      {
+        "title": "Who has most Grand Slams (men)?",
+        "answer_1": "Federer",
+        "answer_2": "Nadal",
+        "answer_3": "Djokovic",
+        "answer_4": "Sampras",
+        "right_answer": "Djokovic"
+      },
+      {
+        "title": "How long is an Olympic swimming pool?",
+        "answer_1": "25m",
+        "answer_2": "50m",
+        "answer_3": "100m",
+        "answer_4": "75m",
+        "right_answer": "50m"
+      },
+      {
+        "title": "Which country invented baseball?",
+        "answer_1": "UK",
+        "answer_2": "Canada",
+        "answer_3": "USA",
+        "answer_4": "Cuba",
+        "right_answer": "USA"
+      },
+      {
+        "title": "How many players in volleyball team on court?",
+        "answer_1": "5",
+        "answer_2": "6",
+        "answer_3": "7",
+        "answer_4": "8",
+        "right_answer": "6"
+      },
+      {
+        "title": "Fastest 100m sprint (2025)?",
+        "answer_1": "Usain Bolt",
+        "answer_2": "Tyson Gay",
+        "answer_3": "Asafa Powell",
+        "answer_4": "Still Bolt",
+        "right_answer": "Usain Bolt"
+      },
+      {
+        "title": "How many points for a touchdown in American football?",
+        "answer_1": "5",
+        "answer_2": "6",
+        "answer_3": "7",
+        "answer_4": "8",
+        "right_answer": "6"
+      },
+      {
+        "title": "Who has most Champions League titles (player)?",
+        "answer_1": "Messi",
+        "answer_2": "Ronaldo",
+        "answer_3": "Paco Gento",
+        "answer_4": "Dani Alves",
+        "right_answer": "Cristiano Ronaldo"
+      },
+      {
+        "title": "Cricket World Cup every how many years?",
+        "answer_1": "2",
+        "answer_2": "4",
+        "answer_3": "5",
+        "answer_4": "3",
+        "right_answer": "4"
+      },
+      {
+        "title": "How many squares on a chessboard?",
+        "answer_1": "64",
+        "answer_2": "81",
+        "answer_3": "100",
+        "answer_4": "49",
+        "right_answer": "64"
+      },
+      {
+        "title": "Tour de France is in which sport?",
+        "answer_1": "Running",
+        "answer_2": "Swimming",
+        "answer_3": "Cycling",
+        "answer_4": "Rowing",
+        "right_answer": "Cycling"
+      },
+      {
+        "title": "How many gold medals did Michael Phelps win?",
+        "answer_1": "21",
+        "answer_2": "23",
+        "answer_3": "25",
+        "answer_4": "28",
+        "right_answer": "23"
+      },
+      {
+        "title": "Which country hosts the most Summer Olympics?",
+        "answer_1": "USA",
+        "answer_2": "France",
+        "answer_3": "Japan",
+        "answer_4": "UK",
+        "right_answer": "USA"
+      },
+      {
+        "title": "FIFA was founded in which year?",
+        "answer_1": "1900",
+        "answer_2": "1904",
+        "answer_3": "1910",
+        "answer_4": "1920",
+        "right_answer": "1904"
+      },
+      {
+        "title": "How many players in a rugby union team?",
+        "answer_1": "11",
+        "answer_2": "13",
+        "answer_3": "15",
+        "answer_4": "17",
+        "right_answer": "15"
+      },
+      {
+        "title": "Who won the most Wimbledon titles (men)?",
+        "answer_1": "Sampras",
+        "answer_2": "Federer",
+        "answer_3": "Djokovic",
+        "answer_4": "Borg",
+        "right_answer": "Roger Federer"
+      },
+      {
+        "title": "Super Bowl is for which sport?",
+        "answer_1": "Basketball",
+        "answer_2": "Baseball",
+        "answer_3": "American Football",
+        "answer_4": "Ice Hockey",
+        "right_answer": "American Football"
+      },
+      {
+        "title": "How long is a football match?",
+        "answer_1": "80 minutes",
+        "answer_2": "90 minutes",
+        "answer_3": "100 minutes",
+        "answer_4": "120 minutes",
+        "right_answer": "90 minutes"
+      },
+      {
+        "title": "Which country never missed a World Cup?",
+        "answer_1": "Germany",
+        "answer_2": "Italy",
+        "answer_3": "Brazil",
+        "answer_4": "Argentina",
+        "right_answer": "Brazil"
+      },
+      {
+        "title": "How many rings in the Olympic symbol?",
+        "answer_1": "4",
+        "answer_2": "5",
+        "answer_3": "6",
+        "answer_4": "7",
+        "right_answer": "5"
+      },
+      {
+        "title": "Who is the fastest man ever?",
+        "answer_1": "Carl Lewis",
+        "answer_2": "Jesse Owens",
+        "answer_3": "Usain Bolt",
+        "answer_4": "Michael Johnson",
+        "right_answer": "Usain Bolt"
+      },
+      {
+        "title": "How many players in basketball on court?",
+        "answer_1": "4",
+        "answer_2": "5",
+        "answer_3": "6",
+        "answer_4": "7",
+        "right_answer": "5"
+      },
+      {
+        "title": "Which sport uses a shuttlecock?",
+        "answer_1": "Tennis",
+        "answer_2": "Squash",
+        "answer_3": "Badminton",
+        "answer_4": "Table Tennis",
+        "right_answer": "Badminton"
+      },
+      {
+        "title": "How many World Cups has Germany won?",
+        "answer_1": "3",
+        "answer_2": "4",
+        "answer_3": "5",
+        "answer_4": "2",
+        "right_answer": "4"
+      },
+      {
+        "title": "Who has the most home runs in MLB?",
+        "answer_1": "Babe Ruth",
+        "answer_2": "Hank Aaron",
+        "answer_3": "Barry Bonds",
+        "answer_4": "Alex Rodriguez",
+        "right_answer": "Barry Bonds"
+      },
+      {
+        "title": "Which country won Euro 2020?",
+        "answer_1": "France",
+        "answer_2": "England",
+        "answer_3": "Italy",
+        "answer_4": "Portugal",
+        "right_answer": "Italy"
+      },
+      {
+        "title": "How many balls in snooker?",
+        "answer_1": "15 red + 6",
+        "answer_2": "22",
+        "answer_3": "20",
+        "answer_4": "18",
+        "right_answer": "15 red + 6"
+      },
+      {
+        "title": "Who is called The Black Pearl?",
+        "answer_1": "Maradona",
+        "answer_2": "Pelé",
+        "answer_3": "Eusébio",
+        "answer_4": "George Best",
+        "right_answer": "Pelé"
+      },
+      {
+        "title": "Which is the only Grand Slam on clay?",
+        "answer_1": "Australian Open",
+        "answer_2": "Wimbledon",
+        "answer_3": "US Open",
+        "answer_4": "French Open",
+        "right_answer": "French Open"
+      }
+    ]
+  },
+  "ar": {
+    "history": [
+      {
+        "title": "من كان أول رئيس للولايات المتحدة؟",
+        "answer_1": "أبراهام لينكولن",
+        "answer_2": "توماس جيفرسون",
+        "answer_3": "جورج واشنطن",
+        "answer_4": "جون آدامز",
+        "right_answer": "جورج واشنطن"
+      },
+      {
+        "title": "في أي عام انتهت الحرب العالمية الثانية؟",
+        "answer_1": "1944",
+        "answer_2": "1945",
+        "answer_3": "1946",
+        "answer_4": "1950",
+        "right_answer": "1945"
+      },
+      {
+        "title": "من اكتشف أمريكا عام 1492؟",
+        "answer_1": "فاسكو دا جاما",
+        "answer_2": "فرديناند ماجلان",
+        "answer_3": "كريستوفر كولومبوس",
+        "answer_4": "جيمس كوك",
+        "right_answer": "كريستوفر كولومبوس"
+      },
+      {
+        "title": "أي حضارة بنت الأهرامات؟",
+        "answer_1": "الرومان",
+        "answer_2": "اليونانيون",
+        "answer_3": "المصريون القدماء",
+        "answer_4": "المايا",
+        "right_answer": "المصريون القدماء"
+      },
+      {
+        "title": "من كانت تُلقب بالسيدة الحديدية؟",
+        "answer_1": "إنديرا غاندي",
+        "answer_2": "أنجيلا ميركل",
+        "answer_3": "مارغريت تاتشر",
+        "answer_4": "جولدا مائير",
+        "right_answer": "مارغريت تاتشر"
+      },
+      {
+        "title": "أي جدار سقط عام 1989؟",
+        "answer_1": "سور الصين العظيم",
+        "answer_2": "جدار برلين",
+        "answer_3": "جدار هادريان",
+        "answer_4": "حائط المبكى",
+        "right_answer": "جدار برلين"
+      },
+      {
+        "title": "من كان أول إنسان يمشي على القمر؟",
+        "answer_1": "باز ألدرين",
+        "answer_2": "يوري جاجارين",
+        "answer_3": "نيل أرمسترونغ",
+        "answer_4": "جون جلين",
+        "right_answer": "نيل أرمسترونغ"
+      },
+      {
+        "title": "أي إمبراطورية كان يوليوس قيصر ينتمي إليها؟",
+        "answer_1": "اليونانية",
+        "answer_2": "الفارسية",
+        "answer_3": "الرومانية",
+        "answer_4": "العثمانية",
+        "right_answer": "الرومانية"
+      },
+      {
+        "title": "أين بدأت عصر النهضة؟",
+        "answer_1": "فرنسا",
+        "answer_2": "إسبانيا",
+        "answer_3": "إيطاليا",
+        "answer_4": "ألمانيا",
+        "right_answer": "إيطاليا"
+      },
+      {
+        "title": "من رسم لوحة الموناليزا؟",
+        "answer_1": "مايكل أنجلو",
+        "answer_2": "رافاييل",
+        "answer_3": "ليوناردو دا فينشي",
+        "answer_4": "بيكاسو",
+        "right_answer": "ليوناردو دا فينشي"
+      },
+      {
+        "title": "من هي أطول ملكة حكمت بريطانيا؟",
+        "answer_1": "الملكة فيكتوريا",
+        "answer_2": "الملك جورج الثالث",
+        "answer_3": "الملكة إليزابيث الثانية",
+        "answer_4": "الملك هنري الثامن",
+        "right_answer": "الملكة إليزابيث الثانية"
+      },
+      {
+        "title": "في أي عام بدأت الثورة الفرنسية؟",
+        "answer_1": "1776",
+        "answer_2": "1789",
+        "answer_3": "1799",
+        "answer_4": "1804",
+        "right_answer": "1789"
+      },
+      {
+        "title": "من كان أول إمبراطور للصين؟",
+        "answer_1": "سون يات سين",
+        "answer_2": "قوبلاي خان",
+        "answer_3": "تشين شي هوانغ",
+        "answer_4": "ماو تسي تونغ",
+        "right_answer": "تشين شي هوانغ"
+      },
+      {
+        "title": "أي معاهدة أنهت الحرب العالمية الأولى؟",
+        "answer_1": "معاهدة باريس",
+        "answer_2": "معاهدة فرساي",
+        "answer_3": "معاهدة تورديسيلاس",
+        "answer_4": "معاهدة أوتريخت",
+        "right_answer": "معاهدة فرساي"
+      },
+      {
+        "title": "من قاد الهند إلى الاستقلال؟",
+        "answer_1": "جواهر لال نهرو",
+        "answer_2": "سوبهاس شاندرا بوس",
+        "answer_3": "المهاتما غاندي",
+        "answer_4": "بهاجات سينغ",
+        "right_answer": "المهاتما غاندي"
+      },
+      {
+        "title": "من هي أول امرأة فازت بجائزة نوبل؟",
+        "answer_1": "روزاليند فرانكلين",
+        "answer_2": "ماري كوري",
+        "answer_3": "آدا لوفلايس",
+        "answer_4": "جين جودال",
+        "right_answer": "ماري كوري"
+      },
+      {
+        "title": "أي دولة كانت تُعرف سابقًا باسم فارس؟",
+        "answer_1": "العراق",
+        "answer_2": "تركيا",
+        "answer_3": "إيران",
+        "answer_4": "أفغانستان",
+        "right_answer": "إيران"
+      },
+      {
+        "title": "من بنى تاج محل؟",
+        "answer_1": "أكبر الأكبر",
+        "answer_2": "شاه جهان",
+        "answer_3": "أورنجزيب",
+        "answer_4": "بابور",
+        "right_answer": "شاه جهان"
+      },
+      {
+        "title": "في أي عام غرقت سفينة التايتانيك؟",
+        "answer_1": "1908",
+        "answer_2": "1912",
+        "answer_3": "1915",
+        "answer_4": "1920",
+        "right_answer": "1912"
+      },
+      {
+        "title": "من كان آخر قيصر لروسيا؟",
+        "answer_1": "إيفان الرهيب",
+        "answer_2": "بطرس الأكبر",
+        "answer_3": "نيكولاس الثاني",
+        "answer_4": "ألكسندر الثالث",
+        "right_answer": "نيكولاس الثاني"
+      },
+      {
+        "title": "ما هي عاصمة إمبراطورية الإنكا القديمة؟",
+        "answer_1": "ماتشو بيتشو",
+        "answer_2": "كوسكو",
+        "answer_3": "ليما",
+        "answer_4": "كيتو",
+        "right_answer": "كوسكو"
+      },
+      {
+        "title": "من اخترع المطبعة؟",
+        "answer_1": "ليوناردو دا فينشي",
+        "answer_2": "يوهانس غوتنبرغ",
+        "answer_3": "جاليليو",
+        "answer_4": "كوبرنيكوس",
+        "right_answer": "يوهانس غوتنبرغ"
+      },
+      {
+        "title": "أي حرب دارت بين 1950-1953؟",
+        "answer_1": "حرب فيتنام",
+        "answer_2": "الحرب الكورية",
+        "answer_3": "حرب الخليج",
+        "answer_4": "حرب فوكلاند",
+        "right_answer": "الحرب الكورية"
+      },
+      {
+        "title": "من كان يُلقب بملك الشمس؟",
+        "answer_1": "هنري الثامن",
+        "answer_2": "لويس الرابع عشر",
+        "answer_3": "فيليب الثاني",
+        "answer_4": "تشارلز الخامس",
+        "right_answer": "لويس الرابع عشر"
+      },
+      {
+        "title": "إلى أي مكان نُفي نابليون أخيرًا؟",
+        "answer_1": "إلبا",
+        "answer_2": "كورسيكا",
+        "answer_3": "سانت هيلينا",
+        "answer_4": "روسيا",
+        "right_answer": "سانت هيلينا"
+      },
+      {
+        "title": "من كانت أول رئيسة وزراء بريطانية؟",
+        "answer_1": "تيريزا ماي",
+        "answer_2": "مارغريت تاتشر",
+        "answer_3": "ليز تراس",
+        "answer_4": "أنجيلا ميركل",
+        "right_answer": "مارغريت تاتشر"
+      },
+      {
+        "title": "أي إمبراطورية كانت الأكبر في التاريخ؟",
+        "answer_1": "الإمبراطورية الرومانية",
+        "answer_2": "الإمبراطورية المغولية",
+        "answer_3": "الإمبراطورية البريطانية",
+        "answer_4": "الإمبراطورية العثمانية",
+        "right_answer": "الإمبراطورية البريطانية"
+      },
+      {
+        "title": "من كتب البيان الشيوعي؟",
+        "answer_1": "لينين",
+        "answer_2": "كارل ماركس",
+        "answer_3": "ستالين",
+        "answer_4": "تروتسكي",
+        "right_answer": "كارل ماركس"
+      },
+      {
+        "title": "أي ملكة لُقبت بـ ماري الدامية؟",
+        "answer_1": "إليزابيث الأولى",
+        "answer_2": "ماري الأولى",
+        "answer_3": "فيكتوريا",
+        "answer_4": "آن بولين",
+        "right_answer": "ماري الأولى"
+      },
+      {
+        "title": "من كان أول من وصل إلى القطب الجنوبي؟",
+        "answer_1": "سكوت",
+        "answer_2": "أموندسن",
+        "answer_3": "شاكلتون",
+        "answer_4": "كوك",
+        "right_answer": "أموندسن"
+      },
+      {
+        "title": "في أي دولة وُلد هتلر؟",
+        "answer_1": "ألمانيا",
+        "answer_2": "النمسا",
+        "answer_3": "تشيكوسلوفاكيا",
+        "answer_4": "بولندا",
+        "right_answer": "النمسا"
+      },
+      {
+        "title": "من اكتشف البنسلين؟",
+        "answer_1": "فلمنج",
+        "answer_2": "باستور",
+        "answer_3": "كوري",
+        "answer_4": "كوخ",
+        "right_answer": "فلمنج"
+      },
+      {
+        "title": "أي حضارة اخترعت الورق؟",
+        "answer_1": "المصريون",
+        "answer_2": "الصينيون",
+        "answer_3": "اليونانيون",
+        "answer_4": "الرومان",
+        "right_answer": "الصينيون"
+      },
+      {
+        "title": "من كان أول رئيس لجنوب إفريقيا بعد إنهاء الفصل العنصري؟",
+        "answer_1": "دي كليرك",
+        "answer_2": "نيلسون مانديلا",
+        "answer_3": "ثابو مبيكي",
+        "answer_4": "جاكوب زوما",
+        "right_answer": "نيلسون مانديلا"
+      },
+      {
+        "title": "أي معركة أنهت حكم نابليون؟",
+        "answer_1": "ترافالجار",
+        "answer_2": "أوسترليتز",
+        "answer_3": "واترلو",
+        "answer_4": "لايبزيغ",
+        "right_answer": "واترلو"
+      },
+      {
+        "title": "من كانت أول امرأة في الفضاء؟",
+        "answer_1": "سالي رايد",
+        "answer_2": "فالنتينا تيريشكوفا",
+        "answer_3": "ماي جيميسون",
+        "answer_4": "جوديث ريزنيك",
+        "right_answer": "فالنتينا تيريشكوفا"
+      },
+      {
+        "title": "أي دولة كانت تُعرف سابقًا باسم روديسيا؟",
+        "answer_1": "زامبيا",
+        "answer_2": "زيمبابوي",
+        "answer_3": "بتسوانا",
+        "answer_4": "ناميبيا",
+        "right_answer": "زيمبابوي"
+      },
+      {
+        "title": "من قاد الثورة الروسية عام 1917؟",
+        "answer_1": "ستالين",
+        "answer_2": "تروتسكي",
+        "answer_3": "لينين",
+        "answer_4": "كيرينسكي",
+        "right_answer": "لينين"
+      },
+      {
+        "title": "أي مدينة دمرها بركان فيزوف عام 79 م؟",
+        "answer_1": "روما",
+        "answer_2": "نابولي",
+        "answer_3": "بومبي",
+        "answer_4": "هيركولانيوم",
+        "right_answer": "بومبي"
+      },
+      {
+        "title": "من كان أول رئيس وزراء لإسرائيل؟",
+        "answer_1": "جولدا مائير",
+        "answer_2": "ديفيد بن غوريون",
+        "answer_3": "مناحيم بيغن",
+        "answer_4": "إسحاق رابين",
+        "right_answer": "ديفيد بن غوريون"
+      }
+    ],
+    "logic": [
+      {
+        "title": "ما العدد التالي: 2، 4، 8، 16، ؟",
+        "answer_1": "24",
+        "answer_2": "32",
+        "answer_3": "36",
+        "answer_4": "48",
+        "right_answer": "32"
+      },
+      {
+        "title": "إذا كانت كل القطط حيوانات وبعض الحيوانات كلاب، فبعض القطط كلاب",
+        "answer_1": "صحيح",
+        "answer_2": "خطأ",
+        "answer_3": "ربما",
+        "answer_4": "لا يمكن تحديده",
+        "right_answer": "خطأ"
+      },
+      {
+        "title": "أي كلمة لا تنتمي: تفاحة، موز، جزر، عنب؟",
+        "answer_1": "تفاحة",
+        "answer_2": "موز",
+        "answer_3": "جزر",
+        "answer_4": "عنب",
+        "right_answer": "جزر"
+      },
+      {
+        "title": "5 قطط تصطاد 5 فئران في 5 دقائق. كم قطة تحتاج لاصطياد 100 فأر في 100 دقيقة؟",
+        "answer_1": "100",
+        "answer_2": "20",
+        "answer_3": "5",
+        "answer_4": "50",
+        "right_answer": "5"
+      },
+      {
+        "title": "ما الحرف التالي: أ، ج، هـ، و، ؟",
+        "answer_1": "ي",
+        "answer_2": "ك",
+        "answer_3": "ل",
+        "answer_4": "م",
+        "right_answer": "ي"
+      },
+      {
+        "title": "العدد الغريب: 3، 6، 9، 12، 15، 17",
+        "answer_1": "9",
+        "answer_2": "15",
+        "answer_3": "17",
+        "answer_4": "12",
+        "right_answer": "17"
+      },
+      {
+        "title": "إذا كان اليوم الثلاثاء، فما اليوم بعد 100 يوم؟",
+        "answer_1": "الثلاثاء",
+        "answer_2": "الأربعاء",
+        "answer_3": "الخميس",
+        "answer_4": "الجمعة",
+        "right_answer": "الخميس"
+      },
+      {
+        "title": "نصف ربع 400 يساوي؟",
+        "answer_1": "50",
+        "answer_2": "100",
+        "answer_3": "200",
+        "answer_4": "25",
+        "right_answer": "50"
+      },
+      {
+        "title": "أي شكل له أكبر عدد من الأضلاع؟",
+        "answer_1": "مربع",
+        "answer_2": "خماسي",
+        "answer_3": "سداسي",
+        "answer_4": "ثماني",
+        "right_answer": "ثماني"
+      },
+      {
+        "title": "كيلو ريش مقابل كيلو حديد – أيهما أثقل؟",
+        "answer_1": "الحديد",
+        "answer_2": "الريش",
+        "answer_3": "متساويان",
+        "answer_4": "لا يمكن معرفة",
+        "right_answer": "متساويان"
+      },
+      {
+        "title": "التالي في السلسلة: 1، 1، 2، 3، 5، 8، ؟",
+        "answer_1": "11",
+        "answer_2": "13",
+        "answer_3": "14",
+        "answer_4": "21",
+        "right_answer": "13"
+      },
+      {
+        "title": "إذا تجاوزت صاحب المركز الثاني، فأي مركز أنت؟",
+        "answer_1": "الأول",
+        "answer_2": "الثاني",
+        "answer_3": "الثالث",
+        "answer_4": "الأخير",
+        "right_answer": "الثاني"
+      },
+      {
+        "title": "كم شهر فيهم 28 يوم؟",
+        "answer_1": "واحد",
+        "answer_2": "اثنان",
+        "answer_3": "كل الـ12 شهر",
+        "answer_4": "صفر",
+        "right_answer": "كل الـ12 شهر"
+      },
+      {
+        "title": "الخفاش والكرة يكلفان 1.10 دولار. الخفاش أغلى بدولار من الكرة. كم سعر الكرة؟",
+        "answer_1": "0.10 دولار",
+        "answer_2": "0.05 دولار",
+        "answer_3": "0.50 دولار",
+        "answer_4": "1.00 دولار",
+        "right_answer": "0.05 دولار"
+      },
+      {
+        "title": "الشهور التالية: يناير، فبراير، مارس، أبريل، مايو، ؟",
+        "answer_1": "يونيو",
+        "answer_2": "أغسطس",
+        "answer_3": "سبتمبر",
+        "answer_4": "أكتوبر",
+        "right_answer": "يونيو"
+      },
+      {
+        "title": "إذا كانت كل الورود زهور وبعض الزهور حمراء، فـ:",
+        "answer_1": "كل الورود حمراء",
+        "answer_2": "بعض الورود حمراء",
+        "answer_3": "لا وردة حمراء",
+        "answer_4": "لا يمكن تحديده",
+        "right_answer": "لا يمكن تحديده"
+      },
+      {
+        "title": "العدد الغريب: 2، 4، 6، 8، 9",
+        "answer_1": "4",
+        "answer_2": "6",
+        "answer_3": "8",
+        "answer_4": "9",
+        "right_answer": "9"
+      },
+      {
+        "title": "كم ضلع للمثلث؟",
+        "answer_1": "3",
+        "answer_2": "4",
+        "answer_3": "5",
+        "answer_4": "6",
+        "right_answer": "3"
+      },
+      {
+        "title": "إذا كان أمس الأحد، فغدًا؟",
+        "answer_1": "الإثنين",
+        "answer_2": "الثلاثاء",
+        "answer_3": "الأربعاء",
+        "answer_4": "الجمعة",
+        "right_answer": "الثلاثاء"
+      },
+      {
+        "title": "أي شكل لا ينتمي: دائرة، مربع، مثلث، مستطيل؟",
+        "answer_1": "دائرة",
+        "answer_2": "مربع",
+        "answer_3": "مثلث",
+        "answer_4": "مستطيل",
+        "right_answer": "دائرة"
+      },
+      {
+        "title": "ما التالي: 5، 10، 15، 20، ؟",
+        "answer_1": "21",
+        "answer_2": "25",
+        "answer_3": "30",
+        "answer_4": "35",
+        "right_answer": "25"
+      },
+      {
+        "title": "كم حرف في كلمة فيل؟",
+        "answer_1": "3",
+        "answer_2": "5",
+        "answer_3": "6",
+        "answer_4": "7",
+        "right_answer": "3"
+      },
+      {
+        "title": "إذا كان البيت الأحمر من الطوب الأحمر والبيت الأزرق من الطوب الأزرق، فالبيت الزجاجي من؟",
+        "answer_1": "طوب أخضر",
+        "answer_2": "زجاج",
+        "answer_3": "نباتات",
+        "answer_4": "شفاف",
+        "right_answer": "زجاج"
+      },
+      {
+        "title": "ما الشيء الذي يسافر حول العالم ويبقى في الزاوية؟",
+        "answer_1": "الريح",
+        "answer_2": "الطابع البريدي",
+        "answer_3": "الطائرة",
+        "answer_4": "الإنترنت",
+        "right_answer": "الطابع البريدي"
+      },
+      {
+        "title": "أتكلم بلا فم وأسمع بلا أذنين، من أنا؟",
+        "answer_1": "الصدى",
+        "answer_2": "الشبح",
+        "answer_3": "الراديو",
+        "answer_4": "الهاتف",
+        "right_answer": "الصدى"
+      },
+      {
+        "title": "له مفاتيح لكنه لا يفتح أقفالاً؟",
+        "answer_1": "الخريطة",
+        "answer_2": "البيانو",
+        "answer_3": "الكمبيوتر",
+        "answer_4": "الكنز",
+        "right_answer": "البيانو"
+      },
+      {
+        "title": "كلما أخذت منه زاد، ما هو؟",
+        "answer_1": "الوقت",
+        "answer_2": "المال",
+        "answer_3": "آثار الأقدام",
+        "answer_4": "الحب",
+        "right_answer": "آثار الأقدام"
+      },
+      {
+        "title": "له رأس وذيل لكن لا جسد؟",
+        "answer_1": "الأفعى",
+        "answer_2": "العملة المعدنية",
+        "answer_3": "النهر",
+        "answer_4": "العود الثقاب",
+        "right_answer": "العملة المعدنية"
+      },
+      {
+        "title": "يبتل وهو يجفف؟",
+        "answer_1": "المطر",
+        "answer_2": "المنشفة",
+        "answer_3": "الإسفنجة",
+        "answer_4": "الشعر",
+        "right_answer": "المنشفة"
+      },
+      {
+        "title": "كم لون في قوس قزح؟",
+        "answer_1": "6",
+        "answer_2": "7",
+        "answer_3": "8",
+        "answer_4": "9",
+        "right_answer": "7"
+      },
+      {
+        "title": "إذا كان لديك 3 تفاحات وأخذت 2، كم لديك؟",
+        "answer_1": "1",
+        "answer_2": "2",
+        "answer_3": "3",
+        "answer_4": "0",
+        "right_answer": "2"
+      },
+      {
+        "title": "يأتي مرة في الدقيقة ومرتين في اللحظة ولا يأتي أبدًا في ألف سنة؟",
+        "answer_1": "الوقت",
+        "answer_2": "الحرف م",
+        "answer_3": "الثانية",
+        "answer_4": "اليوم",
+        "right_answer": "الحرف م"
+      },
+      {
+        "title": "له يدان لكنه لا يصفق؟",
+        "answer_1": "القفازات",
+        "answer_2": "الساعة",
+        "answer_3": "الروبوت",
+        "answer_4": "الشجرة",
+        "right_answer": "الساعة"
+      },
+      {
+        "title": "ما الذي يمكنك الإمساك به لكن لا ترميه؟",
+        "answer_1": "الكرة",
+        "answer_2": "الزكام",
+        "answer_3": "السمكة",
+        "answer_4": "الحب",
+        "right_answer": "الزكام"
+      },
+      {
+        "title": "له عين واحدة لكنه لا يرى؟",
+        "answer_1": "السايكلوب",
+        "answer_2": "الإبرة",
+        "answer_3": "البطاطس",
+        "answer_4": "الكاميرا",
+        "right_answer": "الإبرة"
+      },
+      {
+        "title": "أي مبنى له أكثر القصص؟",
+        "answer_1": "ناطحة سحاب",
+        "answer_2": "المكتبة",
+        "answer_3": "المدرسة",
+        "answer_4": "المنزل",
+        "right_answer": "المكتبة"
+      },
+      {
+        "title": "له عنق لكن لا رأس؟",
+        "answer_1": "الزرافة",
+        "answer_2": "الزجاجة",
+        "answer_3": "القميص",
+        "answer_4": "النهر",
+        "right_answer": "الزجاجة"
+      },
+      {
+        "title": "دائمًا أمامك لكن لا يمكنك رؤيته؟",
+        "answer_1": "المستقبل",
+        "answer_2": "الهواء",
+        "answer_3": "الأنف",
+        "answer_4": "الظل",
+        "right_answer": "المستقبل"
+      },
+      {
+        "title": "يجري لكن لا يمشي؟",
+        "answer_1": "النهر",
+        "answer_2": "السيارة",
+        "answer_3": "الوقت",
+        "answer_4": "الأنف",
+        "right_answer": "النهر"
+      },
+      {
+        "title": "له أسنان لكنه لا يعض؟",
+        "answer_1": "القرش",
+        "answer_2": "المشط",
+        "answer_3": "المنشار",
+        "answer_4": "الترس",
+        "right_answer": "المشط"
+      }
+    ],
+    "movies": [
+      {
+        "title": "من أخرج فيلم إنسبشن؟",
+        "answer_1": "ستيفن سبيلبرغ",
+        "answer_2": "جيمس كاميرون",
+        "answer_3": "كريستوفر نولان",
+        "answer_4": "مارتن سكورسيزي",
+        "right_answer": "كريستوفر نولان"
+      },
+      {
+        "title": "أي فيلم فاز بأوسكار أفضل فيلم عام 2020؟",
+        "answer_1": "1917",
+        "answer_2": "جوكر",
+        "answer_3": "طفيلي",
+        "answer_4": "كان هناك يومًا في هوليوود",
+        "right_answer": "طفيلي"
+      },
+      {
+        "title": "من لعب دور آيرون مان؟",
+        "answer_1": "كريس إيفانز",
+        "answer_2": "كريس هيمسورث",
+        "answer_3": "روبرت داوني جونيور",
+        "answer_4": "مارك رافالو",
+        "right_answer": "روبرت داوني جونيور"
+      },
+      {
+        "title": "في أي عام صدر أول أفلام هاري بوتر؟",
+        "answer_1": "1999",
+        "answer_2": "2001",
+        "answer_3": "2003",
+        "answer_4": "2005",
+        "right_answer": "2001"
+      },
+      {
+        "title": "من أخرج فيلم تيتانيك؟",
+        "answer_1": "بيتر جاكسون",
+        "answer_2": "جيمس كاميرون",
+        "answer_3": "ريدلي سكوت",
+        "answer_4": "جورج لوكاس",
+        "right_answer": "جيمس كاميرون"
+      },
+      {
+        "title": "أي فيلم يحتوي على جملة «قد القوة تكون معك»؟",
+        "answer_1": "ستار تريك",
+        "answer_2": "الماتريكس",
+        "answer_3": "حرب النجوم",
+        "answer_4": "ديون",
+        "right_answer": "حرب النجوم"
+      },
+      {
+        "title": "من لعب دور جاك دوسون في تيتانيك؟",
+        "answer_1": "براد بيت",
+        "answer_2": "توم كروز",
+        "answer_3": "ليوناردو دي كابريو",
+        "answer_4": "مات ديمون",
+        "right_answer": "ليوناردو دي كابريو"
+      },
+      {
+        "title": "أي سلسلة تحتوي على شخصية جاك سبارو؟",
+        "answer_1": "إنديانا جونز",
+        "answer_2": "الهوبيت",
+        "answer_3": "قراصنة الكاريبي",
+        "answer_4": "حديقة الديناصورات",
+        "right_answer": "قراصنة الكاريبي"
+      },
+      {
+        "title": "ما هي الدولة الخيالية في فيلم بلاك بانثر؟",
+        "answer_1": "زاموندا",
+        "answer_2": "جينوفيا",
+        "answer_3": "واكاندا",
+        "answer_4": "نابو",
+        "right_answer": "واكاندا"
+      },
+      {
+        "title": "من أخرج فيلم فارس الظلام؟",
+        "answer_1": "تيم بيرتون",
+        "answer_2": "زاك سنايدر",
+        "answer_3": "كريستوفر نولان",
+        "answer_4": "ديفيد فينشر",
+        "right_answer": "كريستوفر نولان"
+      },
+      {
+        "title": "من لعب دور الجوكر عام 2008؟",
+        "answer_1": "خواكين فينيكس",
+        "answer_2": "جاك نيكلسون",
+        "answer_3": "هيث ليدجر",
+        "answer_4": "جاريد ليتو",
+        "right_answer": "هيث ليدجر"
+      },
+      {
+        "title": "أي فيلم يحتوي على شخصية فورست غامب؟",
+        "answer_1": "كاست أواي",
+        "answer_2": "الخط الأخضر",
+        "answer_3": "فورست غامب",
+        "answer_4": "فيلادلفيا",
+        "right_answer": "فورست غامب"
+      },
+      {
+        "title": "من أخرج فيلم بلب فيكشن؟",
+        "answer_1": "مارتن سكورسيزي",
+        "answer_2": "كوينتن تارانتينو",
+        "answer_3": "ديفيد فينشر",
+        "answer_4": "الأخوين كوين",
+        "right_answer": "كوينتن تارانتينو"
+      },
+      {
+        "title": "أي فيلم يحتوي على جملة «ها هو جوني!»؟",
+        "answer_1": "سايكو",
+        "answer_2": "اللمعان",
+        "answer_3": "البرتقالة الآلية",
+        "answer_4": "فول ميتال جاكيت",
+        "right_answer": "اللمعان"
+      },
+      {
+        "title": "من لعب دور فيتو كورليوني في العراب؟",
+        "answer_1": "آل باتشينو",
+        "answer_2": "روبرت دي نيرو",
+        "answer_3": "مارلون براندو",
+        "answer_4": "جيمس كان",
+        "right_answer": "مارلون براندو"
+      },
+      {
+        "title": "أي فيلم فاز بأوسكار أفضل فيلم عام 2023؟",
+        "answer_1": "أوبنهايمر",
+        "answer_2": "توب غان: مافريك",
+        "answer_3": "كل شيء في كل مكان دفعة واحدة",
+        "answer_4": "الفيبلمانز",
+        "right_answer": "كل شيء في كل مكان دفعة واحدة"
+      },
+      {
+        "title": "في الماتريكس، أي حبة اختار نيو؟",
+        "answer_1": "زرقاء",
+        "answer_2": "حمراء",
+        "answer_3": "خضراء",
+        "answer_4": "بيضاء",
+        "right_answer": "حمراء"
+      },
+      {
+        "title": "من أخرج سلسلة سيد الخواتم؟",
+        "answer_1": "ستيفن سبيلبرغ",
+        "answer_2": "بيتر جاكسون",
+        "answer_3": "جيمس كاميرون",
+        "answer_4": "جورج لوكاس",
+        "right_answer": "بيتر جاكسون"
+      },
+      {
+        "title": "من لعب دور وولفرين؟",
+        "answer_1": "رايان رينولدز",
+        "answer_2": "كريس إيفانز",
+        "answer_3": "هيو جاكمان",
+        "answer_4": "إيان ماكيلين",
+        "right_answer": "هيو جاكمان"
+      },
+      {
+        "title": "أي فيلم هو الأعلى ربحًا في التاريخ؟",
+        "answer_1": "المنتقمون: نهاية اللعبة",
+        "answer_2": "تيتانيك",
+        "answer_3": "أفاتار",
+        "answer_4": "حرب النجوم: القوة تستيقظ",
+        "right_answer": "أفاتار"
+      },
+      {
+        "title": "من لعبت دور إلين ريبلي؟",
+        "answer_1": "ليندا هاميلتون",
+        "answer_2": "سيغورني ويفر",
+        "answer_3": "جيمي لي كورتيس",
+        "answer_4": "ميريل ستريب",
+        "right_answer": "سيغورني ويفر"
+      },
+      {
+        "title": "أي فيلم يحتوي على جملة «سأعود»؟",
+        "answer_1": "المفترس",
+        "answer_2": "المحطة",
+        "answer_3": "المنهي",
+        "answer_4": "كوماندوز",
+        "right_answer": "المحطة"
+      },
+      {
+        "title": "من أخرج فيلم طفيلي؟",
+        "answer_1": "بارك تشان ووك",
+        "answer_2": "بونغ جون هو",
+        "answer_3": "كيم كي دوك",
+        "answer_4": "لي تشانغ دونغ",
+        "right_answer": "بونغ جون هو"
+      },
+      {
+        "title": "في كاست أواي، ما اسم الكرة الطائرة؟",
+        "answer_1": "كرة قدم",
+        "answer_2": "كرة طائرة",
+        "answer_3": "كرة سلة",
+        "answer_4": "كرة تنس",
+        "right_answer": "كرة طائرة"
+      },
+      {
+        "title": "أي ممثل يُعرف بـ ذا روك؟",
+        "answer_1": "فين ديزل",
+        "answer_2": "جيسون ستاثام",
+        "answer_3": "دواين جونسون",
+        "answer_4": "كريس هيمسورث",
+        "right_answer": "دواين جونسون"
+      },
+      {
+        "title": "أي فيلم فيه قرش هو الشرير الرئيسي؟",
+        "answer_1": "ديب بلو سي",
+        "answer_2": "الميج",
+        "answer_3": "الفك المفترس",
+        "answer_4": "47 متر تحت",
+        "right_answer": "الفك المفترس"
+      },
+      {
+        "title": "من لعب دور الجوكر عام 2019؟",
+        "answer_1": "هيث ليدجر",
+        "answer_2": "جاك نيكلسون",
+        "answer_3": "خواكين فينيكس",
+        "answer_4": "جاريد ليتو",
+        "right_answer": "خواكين فينيكس"
+      },
+      {
+        "title": "أي فيلم يحتوي على جملة «الحياة مثل علبة الشوكولاتة»؟",
+        "answer_1": "الشاوشانك",
+        "answer_2": "بلب فيكشن",
+        "answer_3": "فورست غامب",
+        "answer_4": "غود ويل هانتينغ",
+        "right_answer": "فورست غامب"
+      },
+      {
+        "title": "من أخرج فيلم قائمة شندلر؟",
+        "answer_1": "مارتن سكورسيزي",
+        "answer_2": "ستيفن سبيلبرغ",
+        "answer_3": "ستانلي كوبريك",
+        "answer_4": "كوينتن تارانتينو",
+        "right_answer": "ستيفن سبيلبرغ"
+      },
+      {
+        "title": "أي فيلم رسوم متحركة فيه أسد اسمه سيمبا؟",
+        "answer_1": "مدغشقر",
+        "answer_2": "الأسد الملك",
+        "answer_3": "زوتوبيا",
+        "answer_4": "كونغ فو باندا",
+        "right_answer": "الأسد الملك"
+      },
+      {
+        "title": "من لعب دور نيو في الماتريكس؟",
+        "answer_1": "ويل سميث",
+        "answer_2": "كيانو ريفز",
+        "answer_3": "توم كروز",
+        "answer_4": "براد بيت",
+        "right_answer": "كيانو ريفز"
+      },
+      {
+        "title": "أي فيلم فيه ديناصورات في حديقة؟",
+        "answer_1": "كينغ كونغ",
+        "answer_2": "غودزيلا",
+        "answer_3": "حديقة الجوراسيك",
+        "answer_4": "العالم المفقود",
+        "right_answer": "حديقة الجوراسيك"
+      },
+      {
+        "title": "من أخرج أفاتار؟",
+        "answer_1": "كريستوفر نولان",
+        "answer_2": "جيمس كاميرون",
+        "answer_3": "بيتر جاكسون",
+        "answer_4": "ريدلي سكوت",
+        "right_answer": "جيمس كاميرون"
+      },
+      {
+        "title": "أي فيلم فيه جملة «لا تستطيع تحمل الحقيقة!»؟",
+        "answer_1": "الشركة",
+        "answer_2": "عدد قليل من الرجال الطيبين",
+        "answer_3": "جيري ماجواير",
+        "answer_4": "رجل المطر",
+        "right_answer": "عدد قليل من الرجال الطيبين"
+      },
+      {
+        "title": "من لعب دور ثور؟",
+        "answer_1": "توم هيدلستون",
+        "answer_2": "كريس هيمسورث",
+        "answer_3": "كريس إيفانز",
+        "answer_4": "مارك رافالو",
+        "right_answer": "كريس هيمسورث"
+      },
+      {
+        "title": "أي فيلم فيه شخصية اسمها إلسا؟",
+        "answer_1": "تانغلد",
+        "answer_2": "موانا",
+        "answer_3": "فروزن",
+        "answer_4": "بريف",
+        "right_answer": "فروزن"
+      },
+      {
+        "title": "من أخرج فيلم بين النجوم؟",
+        "answer_1": "دينيس فيلنوف",
+        "answer_2": "كريستوفر نولان",
+        "answer_3": "ألفونسو كوارون",
+        "answer_4": "ريدلي سكوت",
+        "right_answer": "كريستوفر نولان"
+      },
+      {
+        "title": "أي فيلم آخر كلمة فيه «روزبود»؟",
+        "answer_1": "العراب",
+        "answer_2": "كازابلانكا",
+        "answer_3": "المواطن كين",
+        "answer_4": "ذهب مع الريح",
+        "right_answer": "المواطن كين"
+      },
+      {
+        "title": "من لعب دور هانيبال ليكتر في صمت الحملان؟",
+        "answer_1": "أنتوني هوبكنز",
+        "answer_2": "روبرت دي نيرو",
+        "answer_3": "آل باتشينو",
+        "answer_4": "جاك نيكلسون",
+        "right_answer": "أنتوني هوبكنز"
+      },
+      {
+        "title": "أي فيلم فيه آلة زمن دي لوريان؟",
+        "answer_1": "المحطة",
+        "answer_2": "العودة إلى المستقبل",
+        "answer_3": "بيل وتيد",
+        "answer_4": "12 قردًا",
+        "right_answer": "العودة إلى المستقبل"
+      }
+    ],
+    "science": [
+      {
+        "title": "ما الكوكب المعروف بالكوكب الأحمر؟",
+        "answer_1": "الزهرة",
+        "answer_2": "المشتري",
+        "answer_3": "المريخ",
+        "answer_4": "عطارد",
+        "right_answer": "المريخ"
+      },
+      {
+        "title": "أي غاز تمتصه النباتات؟",
+        "answer_1": "الأكسجين",
+        "answer_2": "النيتروجين",
+        "answer_3": "ثاني أكسيد الكربون",
+        "answer_4": "الهيدروجين",
+        "right_answer": "ثاني أكسيد الكربون"
+      },
+      {
+        "title": "ما الرمز الكيميائي للماء؟",
+        "answer_1": "O2",
+        "answer_2": "CO2",
+        "answer_3": "H2O",
+        "answer_4": "HO",
+        "right_answer": "H2O"
+      },
+      {
+        "title": "أين يوجد الحمض النووي في الخلية؟",
+        "answer_1": "السيتوبلازم",
+        "answer_2": "الميتوكوندريا",
+        "answer_3": "النواة",
+        "answer_4": "الرايبوسوم",
+        "right_answer": "النواة"
+      },
+      {
+        "title": "أقسى مادة طبيعية؟",
+        "answer_1": "الذهب",
+        "answer_2": "الحديد",
+        "answer_3": "الألماس",
+        "answer_4": "البلاتين",
+        "right_answer": "الألماس"
+      },
+      {
+        "title": "أي قوة تبقينا على الأرض؟",
+        "answer_1": "المغناطيسية",
+        "answer_2": "الاحتكاك",
+        "answer_3": "الجاذبية",
+        "answer_4": "القصور الذاتي",
+        "right_answer": "الجاذبية"
+      },
+      {
+        "title": "أي كوكب له حلقات مرئية؟",
+        "answer_1": "المشتري",
+        "answer_2": "المريخ",
+        "answer_3": "زحل",
+        "answer_4": "أورانوس",
+        "right_answer": "زحل"
+      },
+      {
+        "title": "أي عضو يضخ الدم؟",
+        "answer_1": "الرئتين",
+        "answer_2": "الكبد",
+        "answer_3": "القلب",
+        "answer_4": "المخ",
+        "right_answer": "القلب"
+      },
+      {
+        "title": "أي غاز نتنفسه؟",
+        "answer_1": "ثاني أكسيد الكربون",
+        "answer_2": "النيتروجين",
+        "answer_3": "الأكسجين",
+        "answer_4": "الأرجون",
+        "right_answer": "الأكسجين"
+      },
+      {
+        "title": "كم كوكب في المجموعة الشمسية؟",
+        "answer_1": "7",
+        "answer_2": "8",
+        "answer_3": "9",
+        "answer_4": "10",
+        "right_answer": "8"
+      },
+      {
+        "title": "سرعة الضوء تقريبًا؟",
+        "answer_1": "300,000 كم/ث",
+        "answer_2": "150,000 كم/ث",
+        "answer_3": "500,000 كم/ث",
+        "answer_4": "1,000,000 كم/ث",
+        "right_answer": "300,000 كم/ث"
+      },
+      {
+        "title": "أكثر غاز وفرة في الغلاف الجوي؟",
+        "answer_1": "الأكسجين",
+        "answer_2": "ثاني أكسيد الكربون",
+        "answer_3": "النيتروجين",
+        "answer_4": "الأرجون",
+        "right_answer": "النيتروجين"
+      },
+      {
+        "title": "أقرب كوكب للشمس؟",
+        "answer_1": "الزهرة",
+        "answer_2": "الأرض",
+        "answer_3": "عطارد",
+        "answer_4": "المريخ",
+        "right_answer": "عطارد"
+      },
+      {
+        "title": "محطة توليد الطاقة في الخلية؟",
+        "answer_1": "النواة",
+        "answer_2": "الرايبوسوم",
+        "answer_3": "الميتوكوندريا",
+        "answer_4": "جهاز جولجي",
+        "right_answer": "الميتوكوندريا"
+      },
+      {
+        "title": "العنصر ذو العدد الذري 1؟",
+        "answer_1": "الهيليوم",
+        "answer_2": "الليثيوم",
+        "answer_3": "الهيدروجين",
+        "answer_4": "الكربون",
+        "right_answer": "الهيدروجين"
+      },
+      {
+        "title": "خلايا الدم البيضاء تقاوم؟",
+        "answer_1": "الفيروسات",
+        "answer_2": "العدوى",
+        "answer_3": "السرطان",
+        "answer_4": "الكل",
+        "right_answer": "العدوى"
+      },
+      {
+        "title": "من وضع نظرية النسبية؟",
+        "answer_1": "نيوتن",
+        "answer_2": "جاليليو",
+        "answer_3": "أينشتاين",
+        "answer_4": "هوكينغ",
+        "right_answer": "أينشتاين"
+      },
+      {
+        "title": "أكبر كوكب؟",
+        "answer_1": "زحل",
+        "answer_2": "نبتون",
+        "answer_3": "المشتري",
+        "answer_4": "الأرض",
+        "right_answer": "المشتري"
+      },
+      {
+        "title": "الصيغة الكيميائية للملح؟",
+        "answer_1": "KCl",
+        "answer_2": "NaCl",
+        "answer_3": "CaCO3",
+        "answer_4": "H2SO4",
+        "right_answer": "NaCl"
+      },
+      {
+        "title": "عدد عظام الإنسان البالغ؟",
+        "answer_1": "196",
+        "answer_2": "206",
+        "answer_3": "216",
+        "answer_4": "226",
+        "right_answer": "206"
+      },
+      {
+        "title": "أصغر وحدة حية؟",
+        "answer_1": "الذرة",
+        "answer_2": "الجزيء",
+        "answer_3": "الخلية",
+        "answer_4": "العضو",
+        "right_answer": "الخلية"
+      },
+      {
+        "title": "كوكب نجمة الصبح؟",
+        "answer_1": "المريخ",
+        "answer_2": "الزهرة",
+        "answer_3": "المشتري",
+        "answer_4": "نجم الشعرى",
+        "right_answer": "الزهرة"
+      },
+      {
+        "title": "أي غاز نتنفسه عند الزفير بشكل أساسي؟",
+        "answer_1": "الأكسجين",
+        "answer_2": "النيتروجين",
+        "answer_3": "ثاني أكسيد الكربون",
+        "answer_4": "بخار الماء",
+        "right_answer": "ثاني أكسيد الكربون"
+      },
+      {
+        "title": "فصيلة الدم المتبرع العالمي؟",
+        "answer_1": "AB+",
+        "answer_2": "A-",
+        "answer_3": "O-",
+        "answer_4": "B+",
+        "right_answer": "O-"
+      },
+      {
+        "title": "ما سبب قوس قزح؟",
+        "answer_1": "الانعكاس",
+        "answer_2": "الانكسار",
+        "answer_3": "الحيود",
+        "answer_4": "الامتصاص",
+        "right_answer": "الانكسار"
+      },
+      {
+        "title": "مركز الذرة؟",
+        "answer_1": "الإلكترون",
+        "answer_2": "البروتون",
+        "answer_3": "النواة",
+        "answer_4": "النيوترون",
+        "right_answer": "النواة"
+      },
+      {
+        "title": "سفينة الصحراء؟",
+        "answer_1": "الحصان",
+        "answer_2": "اللاما",
+        "answer_3": "الجمل",
+        "answer_4": "الفيل",
+        "right_answer": "الجمل"
+      },
+      {
+        "title": "درجة غليان الماء؟",
+        "answer_1": "90°م",
+        "answer_2": "100°م",
+        "answer_3": "110°م",
+        "answer_4": "120°م",
+        "right_answer": "100°م"
+      },
+      {
+        "title": "أكبر عضو في جسم الإنسان؟",
+        "answer_1": "الكبد",
+        "answer_2": "المخ",
+        "answer_3": "الجلد",
+        "answer_4": "الرئة",
+        "right_answer": "الجلد"
+      },
+      {
+        "title": "الرمز الكيميائي للذهب؟",
+        "answer_1": "Ag",
+        "answer_2": "Fe",
+        "answer_3": "Au",
+        "answer_4": "Pb",
+        "right_answer": "Au"
+      },
+      {
+        "title": "أي كوكب له أكبر عدد من الأقمار؟",
+        "answer_1": "المشتري",
+        "answer_2": "زحل",
+        "answer_3": "أورانوس",
+        "answer_4": "نبتون",
+        "right_answer": "زحل"
+      },
+      {
+        "title": "أبو الفيزياء الحديثة؟",
+        "answer_1": "أينشتاين",
+        "answer_2": "نيوتن",
+        "answer_3": "جاليليو",
+        "answer_4": "تسلا",
+        "right_answer": "نيوتن"
+      },
+      {
+        "title": "ماذا يقيس الرقم الهيدروجيني pH؟",
+        "answer_1": "الضغط",
+        "answer_2": "الحموضة",
+        "answer_3": "درجة الحرارة",
+        "answer_4": "الكثافة",
+        "right_answer": "الحموضة"
+      },
+      {
+        "title": "أي فيتامين نحصل عليه من الشمس؟",
+        "answer_1": "A",
+        "answer_2": "B",
+        "answer_3": "C",
+        "answer_4": "D",
+        "right_answer": "D"
+      },
+      {
+        "title": "ما سرعة الصوت؟",
+        "answer_1": "343 م/ث",
+        "answer_2": "123 م/ث",
+        "answer_3": "500 م/ث",
+        "answer_4": "1000 م/ث",
+        "right_answer": "343 م/ث"
+      },
+      {
+        "title": "من أي عنصر يتكون الألماس؟",
+        "answer_1": "الكربون",
+        "answer_2": "السيليكون",
+        "answer_3": "الجرافيت",
+        "answer_4": "الكوارتز",
+        "right_answer": "الكربون"
+      },
+      {
+        "title": "فصيلة الدم المستقبل العالمي؟",
+        "answer_1": "O+",
+        "answer_2": "AB+",
+        "answer_3": "A-",
+        "answer_4": "B-",
+        "right_answer": "AB+"
+      },
+      {
+        "title": "ما أكبر حيوان ثديي؟",
+        "answer_1": "الفيل",
+        "answer_2": "الزرافة",
+        "answer_3": "الحوت الأزرق",
+        "answer_4": "القرش",
+        "right_answer": "الحوت الأزرق"
+      },
+      {
+        "title": "أي عالم اكتشف الجاذبية؟",
+        "answer_1": "أينشتاين",
+        "answer_2": "جاليليو",
+        "answer_3": "نيوتن",
+        "answer_4": "أرخميدس",
+        "right_answer": "نيوتن"
+      },
+      {
+        "title": "ما هو H2SO4؟",
+        "answer_1": "الماء",
+        "answer_2": "الملح",
+        "answer_3": "حمض الكبريتيك",
+        "answer_4": "الخل",
+        "right_answer": "حمض الكبريتيك"
+      }
+    ],
+    "geography": [
+      {
+        "title": "ما عاصمة أستراليا؟",
+        "answer_1": "سيدني",
+        "answer_2": "ملبورن",
+        "answer_3": "كانبرا",
+        "answer_4": "بريسبان",
+        "right_answer": "كانبرا"
+      },
+      {
+        "title": "ما أكبر صحراء في العالم؟",
+        "answer_1": "الصحراء الكبرى",
+        "answer_2": "جوبي",
+        "answer_3": "القارة القطبية الجنوبية",
+        "answer_4": "الصحراء العربية",
+        "right_answer": "القارة القطبية الجنوبية"
+      },
+      {
+        "title": "أي دولة هي الأكثر سكانًا؟",
+        "answer_1": "الصين",
+        "answer_2": "الولايات المتحدة",
+        "answer_3": "الهند",
+        "answer_4": "إندونيسيا",
+        "right_answer": "الهند"
+      },
+      {
+        "title": "ما أطول نهر في العالم؟",
+        "answer_1": "الأمازون",
+        "answer_2": "النيل",
+        "answer_3": "يانغتسي",
+        "answer_4": "المسيسيبي",
+        "right_answer": "النيل"
+      },
+      {
+        "title": "أي دولة تُعرف ببلاد شمس الصباح؟",
+        "answer_1": "الصين",
+        "answer_2": "كوريا",
+        "answer_3": "اليابان",
+        "answer_4": "تايلاند",
+        "right_answer": "اليابان"
+      },
+      {
+        "title": "في أي قارة تقع مصر؟",
+        "answer_1": "آسيا",
+        "answer_2": "أوروبا",
+        "answer_3": "إفريقيا",
+        "answer_4": "الشرق الأوسط",
+        "right_answer": "إفريقيا"
+      },
+      {
+        "title": "ما أصغر دولة في العالم؟",
+        "answer_1": "موناكو",
+        "answer_2": "سان مارينو",
+        "answer_3": "الفاتيكان",
+        "answer_4": "ليختنشتاين",
+        "right_answer": "الفاتيكان"
+      },
+      {
+        "title": "أي بحر يفصل بين إفريقيا وأوروبا؟",
+        "answer_1": "البحر الأحمر",
+        "answer_2": "البحر الأسود",
+        "answer_3": "البحر المتوسط",
+        "answer_4": "بحر قزوين",
+        "right_answer": "البحر المتوسط"
+      },
+      {
+        "title": "ما أعلى جبل في العالم؟",
+        "answer_1": "K2",
+        "answer_2": "كانشنجونجا",
+        "answer_3": "إيفرست",
+        "answer_4": "لوتسي",
+        "right_answer": "إيفرست"
+      },
+      {
+        "title": "أي دولة فيها أكبر عدد من الأهرامات؟",
+        "answer_1": "مصر",
+        "answer_2": "المكسيك",
+        "answer_3": "السودان",
+        "answer_4": "بيرو",
+        "right_answer": "السودان"
+      },
+      {
+        "title": "ما عاصمة البرازيل؟",
+        "answer_1": "ريو دي جانيرو",
+        "answer_2": "ساو باولو",
+        "answer_3": "برازيليا",
+        "answer_4": "سلفادور",
+        "right_answer": "برازيليا"
+      },
+      {
+        "title": "ما أكبر محيط؟",
+        "answer_1": "الأطلسي",
+        "answer_2": "الهندي",
+        "answer_3": "الهادئ",
+        "answer_4": "القطبي الشمالي",
+        "right_answer": "الهادئ"
+      },
+      {
+        "title": "أي دولة لها أكبر عدد من الجيران؟",
+        "answer_1": "روسيا",
+        "answer_2": "البرازيل",
+        "answer_3": "الصين",
+        "answer_4": "ألمانيا",
+        "right_answer": "الصين"
+      },
+      {
+        "title": "أبرد قارة؟",
+        "answer_1": "آسيا",
+        "answer_2": "أوروبا",
+        "answer_3": "القارة القطبية الجنوبية",
+        "answer_4": "أمريكا الشمالية",
+        "right_answer": "القارة القطبية الجنوبية"
+      },
+      {
+        "title": "ما عاصمة اليابان؟",
+        "answer_1": "أوساكا",
+        "answer_2": "كيوتو",
+        "answer_3": "طوكيو",
+        "answer_4": "هيروشيما",
+        "right_answer": "طوكيو"
+      },
+      {
+        "title": "أي دولة تقع في قارتين (أوروبا وآسيا)؟",
+        "answer_1": "تركيا",
+        "answer_2": "اليونان",
+        "answer_3": "أوكرانيا",
+        "answer_4": "جورجيا",
+        "right_answer": "تركيا"
+      },
+      {
+        "title": "ما أكبر جزيرة؟",
+        "answer_1": "أستراليا",
+        "answer_2": "جرينلاند",
+        "answer_3": "غينيا الجديدة",
+        "answer_4": "بورنيو",
+        "right_answer": "جرينلاند"
+      },
+      {
+        "title": "أي نهر يمر بمصر؟",
+        "answer_1": "الأمازون",
+        "answer_2": "الكونغو",
+        "answer_3": "النيل",
+        "answer_4": "دجلة",
+        "right_answer": "النيل"
+      },
+      {
+        "title": "ما عاصمة كندا؟",
+        "answer_1": "تورونتو",
+        "answer_2": "فانكوفر",
+        "answer_3": "أوتاوا",
+        "answer_4": "مونتريال",
+        "right_answer": "أوتاوا"
+      },
+      {
+        "title": "أي دولة لها أطول ساحل في العالم؟",
+        "answer_1": "إندونيسيا",
+        "answer_2": "روسيا",
+        "answer_3": "كندا",
+        "answer_4": "أستراليا",
+        "right_answer": "كندا"
+      },
+      {
+        "title": "ما أكبر بحيرة؟",
+        "answer_1": "بايكال",
+        "answer_2": "سوبيريور",
+        "answer_3": "بحر قزوين",
+        "answer_4": "فيكتوريا",
+        "right_answer": "بحر قزوين"
+      },
+      {
+        "title": "أي دولة تُعرف بجزيرة الزمرد؟",
+        "answer_1": "إسكتلندا",
+        "answer_2": "ويلز",
+        "answer_3": "أيرلندا",
+        "answer_4": "آيسلندا",
+        "right_answer": "أيرلندا"
+      },
+      {
+        "title": "ما العاصمة الإدارية لجنوب إفريقيا؟",
+        "answer_1": "كيب تاون",
+        "answer_2": "جوهانسبرغ",
+        "answer_3": "بريتوريا",
+        "answer_4": "ديربان",
+        "right_answer": "بريتوريا"
+      },
+      {
+        "title": "أي قارة ليس فيها سكان دائمون؟",
+        "answer_1": "أستراليا",
+        "answer_2": "القارة القطبية الجنوبية",
+        "answer_3": "القطب الشمالي",
+        "answer_4": "جرينلاند",
+        "right_answer": "القارة القطبية الجنوبية"
+      },
+      {
+        "title": "أي دولة فيها أكبر عدد من المناطق الزمنية؟",
+        "answer_1": "الولايات المتحدة",
+        "answer_2": "روسيا",
+        "answer_3": "فرنسا",
+        "answer_4": "الصين",
+        "right_answer": "فرنسا"
+      },
+      {
+        "title": "ما عاصمة مصر؟",
+        "answer_1": "الإسكندرية",
+        "answer_2": "الجيزة",
+        "answer_3": "القاهرة",
+        "answer_4": "الأقصر",
+        "right_answer": "القاهرة"
+      },
+      {
+        "title": "أي بحر ليس له سواحل؟",
+        "answer_1": "البحر الميت",
+        "answer_2": "بحر سارجاسو",
+        "answer_3": "البحر الأسود",
+        "answer_4": "البحر الأحمر",
+        "right_answer": "بحر سارجاسو"
+      },
+      {
+        "title": "أكبر دولة من حيث المساحة؟",
+        "answer_1": "الصين",
+        "answer_2": "كندا",
+        "answer_3": "روسيا",
+        "answer_4": "الولايات المتحدة",
+        "right_answer": "روسيا"
+      },
+      {
+        "title": "أي دولة موطن حيوان الكانغارو؟",
+        "answer_1": "نيوزيلندا",
+        "answer_2": "جنوب إفريقيا",
+        "answer_3": "أستراليا",
+        "answer_4": "تسمانيا",
+        "right_answer": "أستراليا"
+      },
+      {
+        "title": "ما عاصمة روسيا؟",
+        "answer_1": "سانت بطرسبرغ",
+        "answer_2": "موسكو",
+        "answer_3": "كييف",
+        "answer_4": "نوفوسيبيرسك",
+        "right_answer": "موسكو"
+      },
+      {
+        "title": "أي قارة هي الأكثر جفافًا؟",
+        "answer_1": "آسيا",
+        "answer_2": "إفريقيا",
+        "answer_3": "أستراليا",
+        "answer_4": "القارة القطبية الجنوبية",
+        "right_answer": "القارة القطبية الجنوبية"
+      },
+      {
+        "title": "أي دولة على علمها ورقة القيقب؟",
+        "answer_1": "الولايات المتحدة",
+        "answer_2": "بريطانيا",
+        "answer_3": "كندا",
+        "answer_4": "سويسرا",
+        "right_answer": "كندا"
+      },
+      {
+        "title": "ما عاصمة فرنسا؟",
+        "answer_1": "ليون",
+        "answer_2": "مارسيليا",
+        "answer_3": "باريس",
+        "answer_4": "نيس",
+        "right_answer": "باريس"
+      },
+      {
+        "title": "أي نهر يمر بلندن؟",
+        "answer_1": "السين",
+        "answer_2": "الدانوب",
+        "answer_3": "التايمز",
+        "answer_4": "الراين",
+        "right_answer": "التايمز"
+      },
+      {
+        "title": "ما أكبر وادي في العالم؟",
+        "answer_1": "جراند كانيون",
+        "answer_2": "وادي السمك",
+        "answer_3": "وادي كولكا",
+        "answer_4": "يارلونغ تسانغبو",
+        "right_answer": "يارلونغ تسانغبو"
+      },
+      {
+        "title": "أي دولة شكلها يشبه الحذاء؟",
+        "answer_1": "اليونان",
+        "answer_2": "إسبانيا",
+        "answer_3": "إيطاليا",
+        "answer_4": "البرتغال",
+        "right_answer": "إيطاليا"
+      },
+      {
+        "title": "ما عاصمة تركيا؟",
+        "answer_1": "إسطنبول",
+        "answer_2": "إزمير",
+        "answer_3": "أنقرة",
+        "answer_4": "أنطاليا",
+        "right_answer": "أنقرة"
+      },
+      {
+        "title": "أي قارة هي الأصغر؟",
+        "answer_1": "أوروبا",
+        "answer_2": "أستراليا",
+        "answer_3": "أمريكا الجنوبية",
+        "answer_4": "القارة القطبية الجنوبية",
+        "right_answer": "أستراليا"
+      },
+      {
+        "title": "أي دولة فيها أكبر عدد من البراكين؟",
+        "answer_1": "اليابان",
+        "answer_2": "إيطاليا",
+        "answer_3": "إندونيسيا",
+        "answer_4": "آيسلندا",
+        "right_answer": "إندونيسيا"
+      },
+      {
+        "title": "ما عاصمة السعودية؟",
+        "answer_1": "جدة",
+        "answer_2": "مكة",
+        "answer_3": "الرياض",
+        "answer_4": "المدينة",
+        "right_answer": "الرياض"
+      }
+    ],
+    "sports": [
+      {
+        "title": "كم لاعب في فريق كرة القدم في الملعب؟",
+        "answer_1": "9",
+        "answer_2": "10",
+        "answer_3": "11",
+        "answer_4": "12",
+        "right_answer": "11"
+      },
+      {
+        "title": "في أي رياضة يمكن تسجيل «هول إن وان»؟",
+        "answer_1": "تنس",
+        "answer_2": "بيسبول",
+        "answer_3": "جولف",
+        "answer_4": "بولينغ",
+        "right_answer": "جولف"
+      },
+      {
+        "title": "من فاز بأكثر جوائز الكرة الذهبية؟",
+        "answer_1": "كريستيانو رونالدو",
+        "answer_2": "بيليه",
+        "answer_3": "ليونيل ميسي",
+        "answer_4": "مارادونا",
+        "right_answer": "ليونيل ميسي"
+      },
+      {
+        "title": "ما طول سباق الماراثون؟",
+        "answer_1": "40 كم",
+        "answer_2": "42.195 كم",
+        "answer_3": "45 كم",
+        "answer_4": "50 كم",
+        "right_answer": "42.195 كم"
+      },
+      {
+        "title": "من فاز بكأس العالم 2022؟",
+        "answer_1": "فرنسا",
+        "answer_2": "البرازيل",
+        "answer_3": "الأرجنتين",
+        "answer_4": "ألمانيا",
+        "right_answer": "الأرجنتين"
+      },
+      {
+        "title": "كم نقطة للثلاثية في كرة السلة؟",
+        "answer_1": "2",
+        "answer_2": "3",
+        "answer_3": "4",
+        "answer_4": "1",
+        "right_answer": "3"
+      },
+      {
+        "title": "ويمبلدون تُلعب على أي سطح؟",
+        "answer_1": "ترابي",
+        "answer_2": "صلب",
+        "answer_3": "عشبي",
+        "answer_4": "سجادي",
+        "right_answer": "عشبي"
+      },
+      {
+        "title": "كم جولة في سباق الفورمولا 1 للفوز؟",
+        "answer_1": "الأسرع في اللفة",
+        "answer_2": "من ينهي أولاً",
+        "answer_3": "الأعلى نقاط",
+        "answer_4": "الأقل أخطاء",
+        "right_answer": "من ينهي أولاً"
+      },
+      {
+        "title": "من يُلقب بـ «الملك» في كرة القدم؟",
+        "answer_1": "مارادونا",
+        "answer_2": "بيليه",
+        "answer_3": "كرويف",
+        "answer_4": "زيدان",
+        "right_answer": "بيليه"
+      },
+      {
+        "title": "أي دولة فازت بكأس العالم أكثر مرة؟",
+        "answer_1": "ألمانيا",
+        "answer_2": "إيطاليا",
+        "answer_3": "البرازيل",
+        "answer_4": "الأرجنتين",
+        "right_answer": "البرازيل"
+      },
+      {
+        "title": "كم لاعب في فريق كرة الطائرة؟",
+        "answer_1": "5",
+        "answer_2": "6",
+        "answer_3": "7",
+        "answer_4": "8",
+        "right_answer": "6"
+      },
+      {
+        "title": "ما هي رياضة مايكل جوردان؟",
+        "answer_1": "كرة القدم الأمريكية",
+        "answer_2": "كرة السلة",
+        "answer_3": "البيسبول",
+        "answer_4": "التنس",
+        "right_answer": "كرة السلة"
+      },
+      {
+        "title": "كم ثقب في ملعب الجولف القياسي؟",
+        "answer_1": "9",
+        "answer_2": "18",
+        "answer_3": "27",
+        "answer_4": "12",
+        "right_answer": "18"
+      },
+      {
+        "title": "من هو أسرع رجل في العالم حاليًا؟",
+        "answer_1": "يوهان بليك",
+        "answer_2": "تايسون غاي",
+        "answer_3": "يوسين بولت",
+        "answer_4": "نواه لايلز",
+        "right_answer": "يوسين بولت"
+      },
+      {
+        "title": "في أي مدينة أُقيمت أولمبياد 2016؟",
+        "answer_1": "لندن",
+        "answer_2": "ريو دي جانيرو",
+        "answer_3": "طوكيو",
+        "answer_4": "بكين",
+        "right_answer": "ريو دي جانيرو"
+      },
+      {
+        "title": "كم لاعب في فريق الهوكي على الجليد؟",
+        "answer_1": "5",
+        "answer_2": "6",
+        "answer_3": "7",
+        "answer_4": "11",
+        "right_answer": "6"
+      },
+      {
+        "title": "ما هي رياضة روجر فيدرر؟",
+        "answer_1": "كرة القدم",
+        "answer_2": "التنس",
+        "answer_3": "الجولف",
+        "answer_4": "السباحة",
+        "right_answer": "التنس"
+      },
+      {
+        "title": "من فاز بكأس العالم 2018؟",
+        "answer_1": "ألمانيا",
+        "answer_2": "فرنسا",
+        "answer_3": "كرواتيا",
+        "answer_4": "البرازيل",
+        "right_answer": "فرنسا"
+      },
+      {
+        "title": "كم وزن كرة السلة الرسمية بالجرام؟",
+        "answer_1": "500-550",
+        "answer_2": "600-650",
+        "answer_3": "700-750",
+        "answer_4": "800-850",
+        "right_answer": "600-650"
+      },
+      {
+        "title": "أي دولة هي موطن رياضة الرجبي الأصلي؟",
+        "answer_1": "أستراليا",
+        "answer_2": "نيوزيلندا",
+        "answer_3": "إنجلترا",
+        "answer_4": "جنوب إفريقيا",
+        "right_answer": "إنجلترا"
+      },
+      {
+        "title": "من هو الهداف التاريخي لدوري أبطال أوروبا؟",
+        "answer_1": "ليونيل ميسي",
+        "answer_2": "كريستيانو رونالدو",
+        "answer_3": "راؤول",
+        "answer_4": "روبرت ليفاندوفسكي",
+        "right_answer": "كريستيانو رونالدو"
+      },
+      {
+        "title": "كم مدة مباراة كرة القدم الرسمية؟",
+        "answer_1": "80 دقيقة",
+        "answer_2": "90 دقيقة",
+        "answer_3": "100 دقيقة",
+        "answer_4": "120 دقيقة",
+        "right_answer": "90 دقيقة"
+      },
+      {
+        "title": "في أي رياضة يوجد «جراند سلام»؟",
+        "answer_1": "التن2",
+        "answer_2": "التنس",
+        "answer_3": "الجولف",
+        "answer_4": "كلا الاثنين",
+        "right_answer": "كلا الاثنين"
+      },
+      {
+        "title": "من فاز بأكثر بطولات ويمبلدون للرجال؟",
+        "answer_1": "بيورن بورغ",
+        "answer_2": "بيت سامبراس",
+        "answer_3": "روجر فيدرر",
+        "answer_4": "نوفاك دجوكوفيتش",
+        "right_answer": "روجر فيدرر"
+      },
+      {
+        "title": "ما هي رياضة محمد علي كلاي؟",
+        "answer_1": "الملاكمة",
+        "answer_2": "المصارعة",
+        "answer_3": "الفنون القتالية",
+        "answer_4": "الكاراتيه",
+        "right_answer": "الملاكمة"
+      },
+      {
+        "title": "كم لاعب في فريق البيسبول؟",
+        "answer_1": "7",
+        "answer_2": "9",
+        "answer_3": "11",
+        "answer_4": "12",
+        "right_answer": "9"
+      },
+      {
+        "title": "أي دولة استضافت كأس العالم 2014؟",
+        "answer_1": "جنوب إفريقيا",
+        "answer_2": "روسيا",
+        "answer_3": "البرازيل",
+        "answer_4": "قطر",
+        "right_answer": "البرازيل"
+      },
+      {
+        "title": "من هو «البرق» في ألعاب القوى؟",
+        "answer_1": "كارل لويس",
+        "answer_2": "يوسين بولت",
+        "answer_3": "جيسي أوينز",
+        "answer_4": "مايكل جونسون",
+        "right_answer": "يوسين بولت"
+      },
+      {
+        "title": "كم مجموع نقاط الفوز في مباراة تنس (مجموعة واحدة)؟",
+        "answer_1": "4",
+        "answer_2": "6",
+        "answer_3": "11",
+        "answer_4": "15",
+        "right_answer": "6"
+      },
+      {
+        "title": "ما لون حزام البطل في الجودو؟",
+        "answer_1": "أسود",
+        "answer_2": "أحمر",
+        "answer_3": "أبيض",
+        "answer_4": "أحمر وأبيض",
+        "right_answer": "أحمر وأبيض"
+      },
+      {
+        "title": "أي نادي فاز بدوري أبطال أوروبا أكثر مرة؟",
+        "answer_1": "ليفربول",
+        "answer_2": "ميلان",
+        "answer_3": "ريال مدريد",
+        "answer_4": "بايرن ميونخ",
+        "right_answer": "ريال مدريد"
+      },
+      {
+        "title": "كم متر هو سباق العدو السريع الأولمبي؟",
+        "answer_1": "50 م",
+        "answer_2": "100 م",
+        "answer_3": "200 م",
+        "answer_4": "400 م",
+        "right_answer": "100 م"
+      },
+      {
+        "title": "من هو أكثر لاعب فوزًا ببطولات التنس الكبرى (رجال)؟",
+        "answer_1": "رافاييل نادال",
+        "answer_2": "روجر فيدرر",
+        "answer_3": "نوفاك دجوكوفيتش",
+        "answer_4": "بيت سامبراس",
+        "right_answer": "نوفاك دجوكوفيتش"
+      },
+      {
+        "title": "في أي رياضة يُستخدم مصطلح «بول»؟",
+        "answer_1": "كرة القدم",
+        "answer_2": "الكريكيت",
+        "answer_3": "الرجبي",
+        "answer_4": "الهوكي",
+        "right_answer": "الكريكيت"
+      },
+      {
+        "title": "كم دقيقة مدة الشوط الإضافي في كرة القدم؟",
+        "answer_1": "10 دقائق",
+        "answer_2": "15 دقيقة",
+        "answer_3": "20 دقيقة",
+        "answer_4": "30 دقيقة",
+        "right_answer": "15 دقيقة"
+      },
+      {
+        "title": "ما هي رياضة تايجر وودز؟",
+        "answer_1": "التنس",
+        "answer_2": "الجولف",
+        "answer_3": "البولو",
+        "answer_4": "الفورمولا 1",
+        "right_answer": "الجولف"
+      },
+      {
+        "title": "أي دولة اخترعت كرة السلة؟",
+        "answer_1": "كندا",
+        "answer_2": "الولايات المتحدة",
+        "answer_3": "بريطانيا",
+        "answer_4": "أستراليا",
+        "right_answer": "كندا"
+      },
+      {
+        "title": "من هو بطل العالم في الشطرنج حاليًا (2025)؟",
+        "answer_1": "ماغنوس كارلسن",
+        "answer_2": "دينغ ليرن",
+        "answer_3": "غوكيش",
+        "answer_4": "فابيانو كاروانا",
+        "right_answer": "دينغ ليرن"
+      },
+      {
+        "title": "كم لاعب في فريق كرة اليد؟",
+        "answer_1": "6",
+        "answer_2": "7",
+        "answer_3": "11",
+        "answer_4": "5",
+        "right_answer": "7"
+      },
+      {
+        "title": "أي مدينة تستضيف الأولمبياد 2024؟",
+        "answer_1": "طوكيو",
+        "answer_2": "لوس أنجلوس",
+        "answer_3": "باريس",
+        "answer_4": "بريسبان",
+        "right_answer": "باريس"
+      }
+    ]
+  }
+}

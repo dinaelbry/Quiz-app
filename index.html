@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+      integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Quiz App</title>
+  </head>
+  <body>
+    <div class="quiz-app">
+      <div class="quiz-info">
+
+        <!-- msg box -->
+        <div id="msgBox" class="msg-box">
+          <p id="msgText"></p>
+          <button id="closeMsg">OK</button>
+        </div>
+        <!-- choose lang -->
+        <div class="lang-btn text-center me-3 mt-3">
+          <div
+            class="btn-group"
+            role="group"
+            aria-label="Basic outlined example"
+          >
+            <button
+              id="en-btn"
+              type="button"
+              class="btn btn-outline-primary px-2"
+            >
+              EN
+            </button>
+            <button
+              id="ar-btn"
+              type="button"
+              class="btn btn-outline-primary px-2"
+            >
+              AR
+            </button>
+          </div>
+        </div>
+        <div class="category-container d-block">
+          <!-- category -->
+          <div class="category mb-2">Category: <span></span></div>
+          <!-- dropdown -->
+          <div class="dropdown">
+            <a
+              class="btn btn-primary dropdown-toggle"
+              href="#"
+              role="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Categories
+            </a>
+            <ul class="dropdown-menu">
+              <li>
+                <a
+                  class="dropdown-item"
+                  href="#"
+                  onclick="showCategory('history')"
+                  >History</a
+                >
+              </li>
+              <li>
+                <a
+                  class="dropdown-item"
+                  href="#"
+                  onclick="showCategory('logic')"
+                  >Logic</a
+                >
+              </li>
+              <li>
+                <a
+                  class="dropdown-item"
+                  href="#"
+                  onclick="showCategory('movies')"
+                  >Movies</a
+                >
+              </li>
+              <li>
+                <a
+                  class="dropdown-item"
+                  href="#"
+                  onclick="showCategory('science')"
+                  >Science</a
+                >
+              </li>
+              <li>
+                <a
+                  class="dropdown-item"
+                  href="#"
+                  onclick="showCategory('geography')"
+                  >Geography</a
+                >
+              </li>
+              <li>
+                <a
+                  class="dropdown-item"
+                  href="#"
+                  onclick="showCategory('sports')"
+                  >Sports</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <!-- count -->
+        <div class="count">Questions count: <span></span></div>
+      </div>
+      <div class="quiz-area"></div>
+      <div class="answers-area"></div>
+      <!-- previous and next button -->
+      <div class="buttons">
+        <button id="prev-btn"><i class="fa-solid fa-arrow-left"></i></button>
+        <button id="next-btn"><i class="fa-solid fa-arrow-right"></i></button>
+      </div>
+      <!-- confirm Box -->
+      <div id="confirmBox" class="confirm-box">
+        <div class="confirm-content">
+          <p>Are you sure you want to submit the quiz?</p>
+          <button id="yes">YES</button>
+          <button id="no">NO</button>
+        </div>
+      </div>
+      <!-- submit -->
+      <button class="submit-btn">Submit</button>
+      <!-- bullets & countdown -->
+      <div class="bullets">
+        <div class="spans-container"></div>
+        <div class="countdown"></div>
+      </div>
+      <!-- results -->
+      <div class="results"></div>
+      <!-- chart -->
+      <canvas id="resultChart"></canvas>
+    </div>
+    <!-- footer -->
+    <footer>
+      <div class="footer" id="footer">
+        <p>
+          Made with
+          <i class="fa-solid fa-heart"></i> by
+          <span>dina elbry</span>
+          | Copyright &copy; 2025 All rights reserved
+        </p>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+      crossorigin="anonymous"
+    ></script>
+    <script src="main.js"></script>
+  </body>
+</html>
